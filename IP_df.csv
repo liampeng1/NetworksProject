@@ -1,0 +1,961 @@
+as,city,country,countryCode,isp,lat,lon,org,IP,region,regionName,status,timezone,zip,message,asn
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7414,-74.0032,Tata Communications Ltd,63.243.216.22,NY,New York,success,America/New_York,10011,,AS6453
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",199.245.16.65,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:410::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::222,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.94.250,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:1e4::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS1299,Toronto,Canada,CA,Telia Company AB,43.6532,-79.3832,Telia Company AB,62.115.116.180,ON,Ontario,success,America/Toronto,M5H,,AS1299
+AS1299,Frankfurt am Main,Germany,DE,Telia Company AB,50.1109,8.68213,Telia Company AB,62.115.114.90,HE,Hesse,success,Europe/Berlin,60313,,AS1299
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.2,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.129,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.3.50,NJ,New Jersey,success,America/New_York,07175,,AS2914
+"AS2914 NTT America, Inc.",Stockholm,Sweden,SE,"NTT America, Inc.",59.3293,18.0686,NTT America,192.80.17.177,AB,Stockholm,success,Europe/Stockholm,100 05,,AS2914
+AS7713 PT Telekomunikasi Indonesia,City of London,United Kingdom,GB,London Internet Exchange Ltd,51.5098,-0.08583500000000001,London Internet Exchange Ltd,2001:7f8:4::1b1b:1,ENG,England,success,Europe/London,EC3R 8AJ,,AS7713
+"AS3356 Level 3 Parent, LLC",Hoboken,United States,US,"Level 3 Communications, Inc.",40.7424,-74.0325,Level 3,4.14.218.29,NJ,New Jersey,success,America/New_York,07030,,AS3356
+"AS3356 Level 3 Parent, LLC",Seattle,United States,US,"Level 3 Communications, Inc.",47.6062,-122.33200000000001,"Level 3, LLC",4.69.219.206,WA,Washington,success,America/Los_Angeles,98111,,AS3356
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Amsterdam,Netherlands,NL,TATA Communications,52.3702,4.895169999999999,,195.219.150.109,NH,North Holland,success,Europe/Amsterdam,1012,,AS6453
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Wrocław,Poland,PL,TATA Communications,51.1139,17.0269,,80.231.80.5,02,Lower Silesia,success,Europe/Warsaw,50-111,,AS6453
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800::93,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7414,-74.0032,Tata Communications Ltd,63.243.216.22,NY,New York,success,America/New_York,10011,,AS6453
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",199.245.16.65,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:410::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::222,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.94.250,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:1e4::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS1299,Toronto,Canada,CA,Telia Company AB,43.6532,-79.3832,Telia Company AB,62.115.116.180,ON,Ontario,success,America/Toronto,M5H,,AS1299
+AS1299,Frankfurt am Main,Germany,DE,Telia Company AB,50.1109,8.68213,Telia Company AB,62.115.114.90,HE,Hesse,success,Europe/Berlin,60313,,AS1299
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.2,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.129,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.3.50,NJ,New Jersey,success,America/New_York,07175,,AS2914
+"AS2914 NTT America, Inc.",Stockholm,Sweden,SE,"NTT America, Inc.",59.3293,18.0686,NTT America,192.80.17.177,AB,Stockholm,success,Europe/Stockholm,100 05,,AS2914
+AS7713 PT Telekomunikasi Indonesia,City of London,United Kingdom,GB,London Internet Exchange Ltd,51.5098,-0.08583500000000001,London Internet Exchange Ltd,2001:7f8:4::1b1b:1,ENG,England,success,Europe/London,EC3R 8AJ,,AS7713
+"AS3356 Level 3 Parent, LLC",Hoboken,United States,US,"Level 3 Communications, Inc.",40.7424,-74.0325,Level 3,4.14.218.29,NJ,New Jersey,success,America/New_York,07030,,AS3356
+"AS3356 Level 3 Parent, LLC",Seattle,United States,US,"Level 3 Communications, Inc.",47.6062,-122.33200000000001,"Level 3, LLC",4.69.219.206,WA,Washington,success,America/Los_Angeles,98111,,AS3356
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Amsterdam,Netherlands,NL,TATA Communications,52.3702,4.895169999999999,,195.219.150.109,NH,North Holland,success,Europe/Amsterdam,1012,,AS6453
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Wrocław,Poland,PL,TATA Communications,51.1139,17.0269,,80.231.80.5,02,Lower Silesia,success,Europe/Warsaw,50-111,,AS6453
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800::93,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+"AS3356 Level 3 Parent, LLC",Washington,United States,US,"Level 3 Communications, Inc.",38.9072,-77.0369,"Level 3, LLC",4.69.203.173,DC,District of Columbia,success,America/New_York,20068,,AS3356
+"AS3356 Level 3 Parent, LLC",Broomfield,United States,US,"Level 3 Communications, Inc.",39.9241,-105.0639,"Level 3, LLC",4.68.62.234,CO,Colorado,success,America/Denver,80020,,AS3356
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.112.244,NY,New York,success,America/New_York,10123,,AS1299
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,Telia Company AB,62.115.44.253,ENG,England,success,Europe/London,W1B,,AS1299
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",New York,United States,US,Verizon Communications,40.7494,-73.9664,"ANS Communications, Inc",152.179.72.41,NY,New York,success,America/New_York,10017,,AS701
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2415,-121.7834,Hurricane Electric,184.104.192.214,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Moline,United States,US,"Comcast Cable Communications, LLC",41.5066,-90.5301,"Comcast Cable Communications, LLC",68.85.204.118,IL,Illinois,success,America/Chicago,61266,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Wayne,United States,US,"Comcast Cable Communications, LLC",40.0574,-75.4017,"Comcast Cable Communications, Inc.",71.225.104.129,PA,Pennsylvania,success,America/New_York,19087,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.86.225,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc.,2001:578:1:0:172:17:249:3,GA,Georgia,success,America/New_York,30319,,AS22773
+AS174 Cogent Communications,Dallas,United States,US,Cogent Communications,32.7767,-96.79700000000001,Cogent communications - IPENG,154.54.44.229,TX,Texas,success,America/Chicago,75270,,AS174
+AS3257 GTT Communications Inc.,Marbella,Spain,ES,Tinet SpA,36.5094,-4.8871400000000005,Web Costasol,213.254.230.162,AN,Andalusia,success,Europe/Madrid,29600,,AS3257
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:0:5000::bac,IL,Illinois,success,America/Chicago,60666,,AS2914
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::7,NY,New York,success,America/New_York,10013,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.237,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.150,VA,Virginia,success,America/New_York,20149,,AS7922
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:5a::2,CO,Colorado,success,America/Denver,80111,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:b::19,NY,New York,success,America/New_York,10013,,nan
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.40.34,GA,Georgia,success,America/New_York,30006,,AS7922
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.122.159,VA,Virginia,success,America/New_York,20149,,AS1299
+AS6461 Zayo Bandwidth,Chicago,United States,US,Zayo Bandwidth,41.8781,-87.6298,Zayo Bandwidth,64.125.30.232,IL,Illinois,success,America/Chicago,60666,,AS6461
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:c::41,NY,New York,success,America/New_York,10013,,nan
+AS6461 Zayo Bandwidth,Miami,United States,US,Zayo Bandwidth,25.7617,-80.1918,Fl-ix Inc,2001:504:40:108::1:23,FL,Florida,success,America/New_York,33102,,AS6461
+,Singapore,Singapore,SG,G-Core Labs,1.35208,103.82,G-Core Labs,27.111.228.81,,,success,Asia/Singapore,,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:9::20d,NY,New York,success,America/New_York,10013,,nan
+"AS7922 Comcast Cable Communications, LLC",Moline,United States,US,"Comcast Cable Communications, LLC",41.5066,-90.5301,"Comcast Cable Communications, LLC",96.108.35.186,IL,Illinois,success,America/Chicago,61266,,AS7922
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.212,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.177,VA,Virginia,success,America/New_York,20149,,AS7922
+AS174 Cogent Communications,Houston,United States,US,Cogent Communications,29.7604,-95.3698,Cogent communications - IPENG,154.54.30.166,TX,Texas,success,America/Chicago,77052,,AS174
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Philadelphia,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",39.9523,-75.1638,Verizon Communications,130.81.171.91,PA,Pennsylvania,success,America/New_York,19099,,AS701
+"AS7922 Comcast Cable Communications, LLC",Huntsville,United States,US,"Comcast Cable Communications, LLC",34.7777,-86.5445,"Comcast Cable Communications, LLC",96.87.8.29,AL,Alabama,success,America/Chicago,35811,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Elmhurst,United States,US,"Comcast Cable Communications, LLC",41.8995,-87.9403,"Comcast IP Services, L.L.C.",96.110.163.122,IL,Illinois,success,America/Chicago,60126,,AS7922
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.206,ON,Ontario,success,America/Toronto,M6G,,AS14061
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.74,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.32.225,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:a::202,NY,New York,success,America/New_York,10013,,nan
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.235.81,NY,New York,success,America/New_York,10577,,nan
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.148.45,NY,New York,success,America/New_York,10123,,AS1299
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:11::2,CO,Colorado,success,America/Denver,80111,,nan
+"AS3356 Level 3 Parent, LLC",Seattle,United States,US,"Level 3 Communications, Inc.",47.6062,-122.33200000000001,"Level 3, LLC",4.69.219.38,WA,Washington,success,America/Los_Angeles,98111,,AS3356
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.29.211,NY,New York,success,America/New_York,10123,,AS6461
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800:1a00::13b,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS11427 Charter Communications Inc,Dallas,United States,US,Charter Communications Inc,32.7767,-96.79700000000001,Spectrum,24.175.41.47,TX,Texas,success,America/Chicago,75270,,AS11427
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::199,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.33.25,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::429,NY,New York,success,America/New_York,10013,,nan
+AS174 Cogent Communications,Houston,United States,US,Cogent Communications,29.7604,-95.3698,Cogent communications - IPENG,154.54.28.86,TX,Texas,success,America/Chicago,77052,,AS174
+"AS2914 NTT America, Inc.",Paris,France,FR,"NTT America, Inc.",48.8566,2.35222,"NTT Europe, Ltd.",82.112.96.237,IDF,Île-de-France,success,Europe/Paris,75000,,AS2914
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.114,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::c9,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS6128 Cablevision Systems Corp.,Lyndhurst,United States,US,Cablevision Systems Corp.,40.812,-74.1243,Optimum Online,67.83.246.10,NJ,New Jersey,success,America/New_York,07071,,AS6128
+AS4637 Telstra Global,Wanchai,Hong Kong,HK,Telstra International Limited,22.2798,114.171,Telstra International Limited,202.84.140.165,HWC,Wan Chai,success,Asia/Hong_Kong,96521,,AS4637
+"AS14061 DigitalOcean, LLC",Singapore,Singapore,SG,"DigitalOcean, LLC",1.32123,103.695,Digital Ocean,128.199.191.254,,,success,Asia/Singapore,627753,,AS14061
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:f580::4,CO,Colorado,success,America/Denver,80111,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:a::221,NY,New York,success,America/New_York,10013,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.69,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS2914 NTT America, Inc.",Singapore,Singapore,SG,"NTT America, Inc.",1.28009,103.851,"NTT America, Inc.",129.250.2.93,,,success,Asia/Singapore,,,AS2914
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3019:79::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:41a6::2,CO,Colorado,success,America/Denver,80111,,nan
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:56f::2,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.157,VA,Virginia,success,America/New_York,20149,,AS7922
+AS6461 Zayo Bandwidth,San Jose,United States,US,Zayo Bandwidth,37.3382,-121.88600000000001,Zayo Bandwidth,64.125.28.215,CA,California,success,America/Los_Angeles,95141,,AS6461
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:219::2,CO,Colorado,success,America/Denver,80111,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:0:1::95,NY,New York,success,America/New_York,10013,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:a::211,NY,New York,success,America/New_York,10013,,nan
+AS7713 PT Telekomunikasi Indonesia,Paris,France,FR,FranceIX,48.8607,2.3281,France IX Services SASU,2001:7f8:54::10,IDF,Île-de-France,success,Europe/Paris,75001,,AS7713
+"AS3356 Level 3 Parent, LLC",Broomfield,United States,US,"Level 3 Communications, Inc.",39.9241,-105.0639,"Level 3, LLC",4.68.62.62,CO,Colorado,success,America/Denver,80020,,AS3356
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Oeiras,Portugal,PT,TATA Communications,38.691,-9.3108,Tata Communications Ltd.,80.231.152.25,11,Lisbon,success,Europe/Lisbon,2780-000,,AS6453
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.12,ON,Ontario,success,America/Toronto,M6G,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.217,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.114,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.6.117,NJ,New Jersey,success,America/New_York,07175,,AS2914
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Jamaica,United States,US,Verizon Communications,40.68,-73.775,"ANS Communications, Inc",152.179.120.229,NY,New York,success,America/New_York,11434,,AS701
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.92,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:16::128,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS3257 GTT Communications Inc.,Paris,France,FR,PacketExchange,48.8566,2.35222,Tinet GmbH,173.205.61.209,IDF,Île-de-France,success,Europe/Paris,75000,,AS3257
+AS174 Cogent Communications,Dallas,United States,US,Cogent Communications,32.7767,-96.79700000000001,Cogent communications - IPENG,154.54.41.65,TX,Texas,success,America/Chicago,75270,,AS174
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.237,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,LINODE,2400:8902:7::1,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,TeliaSonera AB,80.91.254.14,ENG,England,success,Europe/London,W1B,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA Communications,19.076,72.8777,,180.87.39.25,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+AS1299,Atlanta,United States,US,Telia Company AB,33.749,-84.38799999999999,Telia Company AB,62.115.120.112,GA,Georgia,success,America/New_York,30302,,AS1299
+AS3257 GTT Communications Inc.,Wanchai,Hong Kong,HK,GTT Communications,22.2588,114.191,Tinet Hong Kong limited,183.182.80.169,HWC,Wan Chai,success,Asia/Hong_Kong,96521,,AS3257
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.120.176,VA,Virginia,success,America/New_York,20149,,AS1299
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.24,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.206,VA,Virginia,success,America/New_York,20149,,AS7922
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3702,4.895169999999999,Telia Company AB,213.248.81.74,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:11e5::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.40,ON,Ontario,success,America/Toronto,M6G,,nan
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc,2001:578:20:6000::1d,GA,Georgia,success,America/New_York,30319,,AS22773
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:1ac5::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Old Toronto,Canada,CA,TATA COMMUNICATIONS (AMERICA) INC,43.6446,-79.3842,TATA communications,66.110.48.2,ON,Ontario,success,America/Toronto,M5J-2N1,,AS6453
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.6139,77.209,Bharti Airtel,182.79.224.124,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+,,,,,,,,10.78.4.2,,,fail,,,private range,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.30,ON,Ontario,success,America/Toronto,M6G,,nan
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3702,4.895169999999999,TeliaSonera AB,213.155.130.28,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+AS7713 PT Telekomunikasi Indonesia,Old Toronto,Canada,CA,Telekomunikasi Indonesia,43.6493,-79.3912,Toronto Internet Exchange Community,206.108.35.76,ON,Ontario,success,America/Toronto,M5V-3E3,,AS7713
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.122,ON,Ontario,success,America/Toronto,M6G,,AS14061
+,Keller,United States,US,Spectrum,32.9342,-97.2293,Charter Communications,96.34.112.181,TX,Texas,success,America/Chicago,76248,,nan
+AS1299,Toronto,Canada,CA,Telia Company AB,43.6532,-79.3832,Telia Company AB,62.115.117.229,ON,Ontario,success,America/Toronto,M5H,,AS1299
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.208,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.40.62,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS2914 NTT America, Inc.",Miami,United States,US,"NTT America, Inc.",25.7617,-80.1918,"NTT America, Inc.",129.250.207.173,FL,Florida,success,America/New_York,33102,,AS2914
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:112::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::331,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::9d,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:277::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+,,,,,,,,2a03:b0c0:2:d0:ffff:ffff:,,,fail,,,invalid query,nan
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:0:5000::ba0,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS4826 Vocus Connect International Backbone,San Jose,United States,US,Vocus PTY LTD,37.3388,-121.8914,Vocus PTY LTD,49.255.255.12,CA,California,success,America/Los_Angeles,95141,,AS4826
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7308,-73.9975,Tata Communications,66.110.96.142,NY,New York,success,America/New_York,10011,,AS6453
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:8::2,CO,Colorado,success,America/Denver,80111,,nan
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::14d,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS174 Cogent Communications,Houston,United States,US,Cogent Communications,29.7604,-95.3698,Cogent communications - IPENG,154.54.30.174,TX,Texas,success,America/Chicago,77052,,AS174
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.45.9,NY,New York,success,America/New_York,10123,,AS1299
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:f580::5,CO,Colorado,success,America/Denver,80111,,nan
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,Telia Company AB,62.115.162.232,ENG,England,success,Europe/London,W1B,,AS1299
+AS1299,Chicago,United States,US,Telia Company AB,41.8781,-87.6298,Telia Company AB,62.115.156.205,IL,Illinois,success,America/Chicago,60666,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.229,NJ,New Jersey,success,America/New_York,07175,,AS7922
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800:3a00::b9,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS3257 GTT Communications Inc.,Paris,France,FR,PacketExchange,48.8566,2.35222,Tinet GmbH,173.205.61.213,IDF,Île-de-France,success,Europe/Paris,75000,,AS3257
+"AS2914 NTT America, Inc.",Ashburn,United States,US,"NTT America, Inc.",39.0438,-77.4874,"NTT America, Inc.",129.250.6.116,VA,Virginia,success,America/New_York,20149,,AS2914
+AS9498 BHARTI Airtel Ltd.,Gurgaon,India,IN,Bharti Airtel Limited,28.4969,77.0813,Bhartitelesonic,116.119.44.113,HR,Haryana,success,Asia/Kolkata,122001,,AS9498
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::34,NY,New York,success,America/New_York,10013,,nan
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.36.17,NJ,New Jersey,success,America/New_York,07175,,AS7922
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,Telia Company AB,62.115.134.134,ENG,England,success,Europe/London,W1B,,AS1299
+,San Jose,United States,US,Spectrum,37.3394,-121.895,Charter Communications,96.34.154.2,CA,California,success,America/Los_Angeles,95141,,nan
+AS1299,Frankfurt am Main,Germany,DE,Telia Company AB,50.1109,8.68213,Telia Company AB,62.115.114.88,HE,Hesse,success,Europe/Berlin,60313,,AS1299
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.236.83,NY,New York,success,America/New_York,10577,,nan
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.39.158,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS7018 AT&T Services, Inc.",New York,United States,US,AT&T Services,40.7128,-74.006,AT&T Worldnet Services,12.123.240.73,NY,New York,success,America/New_York,10123,,AS7018
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.9.250,CA,California,success,America/Los_Angeles,95141,,AS2914
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7128,-74.006,"Level 3, LLC",4.69.220.22,NY,New York,success,America/New_York,10123,,AS3356
+"AS20473 Choopa, LLC",Miami,United States,US,Choopa,25.8119,-80.2318,"Vultr Holdings, LLC",108.61.249.33,FL,Florida,success,America/New_York,33142,,AS20473
+"AS2914 NTT America, Inc.",Miami,United States,US,"NTT America, Inc.",25.7617,-80.1918,"NTT America, Inc.",129.250.3.166,FL,Florida,success,America/New_York,33102,,AS2914
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.12,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.231.17,NY,New York,success,America/New_York,10577,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.6,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::159,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3019:b8::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS7713 PT Telekomunikasi Indonesia,Redwood Shores,United States,US,Telekomunikasi Indonesia,37.5272,-122.26100000000001,"Equinix, Inc",2001:504:0:5:0:2:115:1,CA,California,success,America/Los_Angeles,94065,,AS7713
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:1d9::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS22773 Cox Communications Inc.,Ashburn,United States,US,Cox Communications Inc.,39.0438,-77.4874,Cox Communications Inc,2001:578:2200:6::24,VA,Virginia,success,America/New_York,20149,,AS22773
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.231,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS3356 Level 3 Parent, LLC",Lake Worth,United States,US,"Level 3 Communications, Inc.",26.5991,-80.1284,Level 3,4.16.180.189,FL,Florida,success,America/New_York,33463,,AS3356
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::41a,NY,New York,success,America/New_York,10013,,nan
+AS6461 Zayo Bandwidth,San Jose,United States,US,Zayo Bandwidth,37.3382,-121.88600000000001,Zayo Bandwidth,64.125.31.12,CA,California,success,America/Los_Angeles,95141,,AS6461
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.104,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::79,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:319::1,CO,Colorado,success,America/Denver,80111,,nan
+"AS2914 NTT America, Inc.",Singapore,Singapore,SG,"NTT America, Inc.",1.28009,103.851,"NTT America, Inc.",129.250.3.101,,,success,Asia/Singapore,,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.4,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS14061 DigitalOcean, LLC",Clifton,United States,US,"DigitalOcean, LLC",40.8364,-74.1403,"DigitalOcean, LLC",134.209.160.253,NJ,New Jersey,success,America/New_York,07014,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, LLC",68.85.158.50,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+AS7843 Charter Communications Inc,Vienna,United States,US,Spectrum,38.9012,-77.2653,Time Warner Cable Internet LLC,66.109.5.224,VA,Virginia,success,America/New_York,22180,,AS7843
+AS11351 Charter Communications Inc,Potsdam,United States,US,Charter Communications Inc,44.6698,-74.9813,Spectrum,24.58.241.198,NY,New York,success,America/New_York,13699,,AS11351
+AS3257 GTT Communications Inc.,Marbella,Spain,ES,Tinet SpA,36.5094,-4.8871400000000005,Web Costasol,213.254.230.165,AN,Andalusia,success,Europe/Madrid,29600,,AS3257
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA COMMUNICATIONS (AMERICA) INC,19.021,72.8304,TATA Communications Ltd,2001:5a0:2300:200::5,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.2,ON,Ontario,success,America/Toronto,M6G,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.80,ON,Ontario,success,America/Toronto,M6G,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::42f,NY,New York,success,America/New_York,10013,,nan
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::86,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS1299,Dallas,United States,US,Telia Company AB,32.7767,-96.79700000000001,Telia Company AB,62.115.180.83,TX,Texas,success,America/Chicago,75270,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.154,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.65.3,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+AS174 Cogent Communications,Washington,United States,US,Cogent Communications,38.907,-77.0526,"PSINet, Inc.",154.24.45.58,DC,District of Columbia,success,America/New_York,20418,,AS174
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.29.208,NY,New York,success,America/New_York,10123,,AS6461
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:2db::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS14061 DigitalOcean, LLC",San Jose,United States,US,"DigitalOcean, LLC",37.2329,-121.7875,"DigitalOcean, LLC",138.68.33.15,CA,California,success,America/Los_Angeles,95119,,AS14061
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:e0::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:313::1,CO,Colorado,success,America/Denver,80111,,nan
+"AS3356 Level 3 Parent, LLC",Seattle,United States,US,"Level 3 Communications, Inc.",47.6062,-122.33200000000001,"Level 3, LLC",4.69.219.30,WA,Washington,success,America/Los_Angeles,98111,,AS3356
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.16,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.201,TX,Texas,success,America/Chicago,75270,,AS63949
+,,,,,,,,2604:a880:800:c1:ffff:fff,,,fail,,,invalid query,nan
+AS7843 Charter Communications Inc,Englewood,United States,US,Charter Communications Inc,39.6514,-104.9926,Spectrum,107.14.19.36,CO,Colorado,success,America/Denver,80150,,AS7843
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.57,VA,Virginia,success,America/New_York,20149,,AS7922
+AS11351 Charter Communications Inc,Potsdam,United States,US,Charter Communications Inc,44.6698,-74.9813,Spectrum,24.58.241.194,NY,New York,success,America/New_York,13699,,AS11351
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:0:5000::101d,IL,Illinois,success,America/Chicago,60666,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.136,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.177,NJ,New Jersey,success,America/New_York,07175,,AS7922
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.2.33,VA,Virginia,success,America/New_York,20149,,nan
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,LINODE,2400:8902::4255:39ff:fe08,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.35.61,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS17819 Equinix Asia Pacific,Chuo,Japan,JP,Equinix Asia Pacific Pte Ltd,35.681999999999995,139.774,Equinix Asia Pacific Pte Ltd,119.27.49.113,13,Tokyo,success,Asia/Tokyo,289-2614,,AS17819
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:99::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.36.101,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS14061 DigitalOcean, LLC",London,United Kingdom,GB,"DigitalOcean, LLC",51.5353,-0.6658,Digital Ocean,46.101.0.253,ENG,England,success,Europe/London,SL1,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Moline,United States,US,"Comcast Cable Communications, LLC",41.5066,-90.5301,"Comcast Cable Communications, LLC",96.108.35.194,IL,Illinois,success,America/Chicago,61266,,AS7922
+"AS3356 Level 3 Parent, LLC",Newark,United States,US,"Level 3 Communications, Inc.",40.7357,-74.1724,"Level 3, LLC",4.68.74.210,NJ,New Jersey,success,America/New_York,07175,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.88.17,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Summit,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",40.7158,-74.359,Verizon Online LLC,100.8.126.93,NJ,New Jersey,success,America/New_York,07901,,AS701
+AS1299,Frankfurt am Main,Germany,DE,Telia Company AB,50.1109,8.68213,Telia Company AB,62.115.116.16,HE,Hesse,success,Europe/Berlin,60313,,AS1299
+"AS2914 NTT America, Inc.",Dallas,United States,US,"NTT America, Inc.",32.7767,-96.79700000000001,"NTT America, Inc.",129.250.5.12,TX,Texas,success,America/Chicago,75270,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.82,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00::e6c7:22ff:fe10,TX,Texas,success,America/Chicago,75270,,AS63949
+,,,,,,,,fd00:0:2::9f,,,fail,,,private range,nan
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc,2001:578:20:a000::5,GA,Georgia,success,America/New_York,30319,,AS22773
+AS11427 Charter Communications Inc,Austin,United States,US,Charter Communications Inc,30.2672,-97.7431,Spectrum,24.175.42.103,TX,Texas,success,America/Chicago,78713,,AS11427
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.5.78,CA,California,success,America/Los_Angeles,95141,,AS2914
+AS9498 BHARTI Airtel Ltd.,Jammu,India,IN,Bharti Airtel Limited,32.705,74.8729,Bharti Airtel Limited,182.79.134.227,JK,Jammu and Kashmir,success,Asia/Kolkata,180003,,AS9498
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.136.201,VA,Virginia,success,America/New_York,20149,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.149,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Moline,United States,US,"Comcast Cable Communications, LLC",41.5066,-90.5301,"Comcast Cable Communications, LLC",68.85.204.34,IL,Illinois,success,America/Chicago,61266,,AS7922
+AS4637 Telstra Global,Singapore,Singapore,SG,Telstra International Limited,1.35208,103.82,Telstra Digitalocean,210.176.138.134,,,success,Asia/Singapore,,,AS4637
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA Communications,19.076,72.8777,,180.87.39.21,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+"AS20473 Choopa, LLC",Aubervilliers,France,FR,Choopa,48.9067,2.36939,"Vultr Holdings, LLC",2001:19f0:6800:100::1,IDF,Île-de-France,success,Europe/Paris,93300,,AS20473
+,Fort Worth,United States,US,Spectrum,32.7555,-97.3308,Charter Communications,96.34.113.149,TX,Texas,success,America/Chicago,76195,,nan
+"AS2914 NTT America, Inc.",Dallas,United States,US,"NTT America, Inc.",32.7767,-96.79700000000001,"NTT America, Inc.",129.250.3.97,TX,Texas,success,America/Chicago,75270,,AS2914
+AS1200 Amsterdam Internet Exchange B.V.,Amsterdam,Netherlands,NL,AMS-IX Amsterdam Peering (ISP) LAN,52.3563,4.9508,,80.249.209.150,NH,North Holland,success,Europe/Amsterdam,1098 XG,,AS1200
+"AS20473 Choopa, LLC",New York,United States,US,"Choopa, LLC",40.7128,-74.0059,"Choopa, LLC",2001:19f0:8000::a42:25,NY,New York,success,America/New_York,10123,,AS20473
+AS4755 TATA Communications formerly VSNL is Leading ISP,Bengaluru,India,IN,TATACOMM,12.9721,77.5933,,219.65.110.189,KA,Karnataka,success,Asia/Kolkata,560002,,AS4755
+AS3257 GTT Communications Inc.,Chicago,United States,US,GTT Communications Inc.,41.8781,-87.6298,GTT,208.116.217.26,IL,Illinois,success,America/Chicago,60666,,AS3257
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.6.96,NJ,New Jersey,success,America/New_York,07175,,AS2914
+,,,,,,,,2a03:b0c0:1:d0:ffff:ffff:,,,fail,,,invalid query,nan
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.2.3,CA,California,success,America/Los_Angeles,95141,,AS2914
+AS6128 Cablevision Systems Corp.,Lyndhurst,United States,US,Cablevision Systems Corp.,40.812,-74.1243,Optimum Online,67.83.246.6,NJ,New Jersey,success,America/New_York,07071,,AS6128
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:1710::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:91::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS3356 Level 3 Parent, LLC",Chicago,United States,US,"Level 3 Communications, Inc.",41.8781,-87.6298,"Level 3, LLC",4.69.206.65,IL,Illinois,success,America/Chicago,60666,,AS3356
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.98,ON,Ontario,success,America/Toronto,M6G,,AS14061
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.128,ON,Ontario,success,America/Toronto,M6G,,nan
+AS3257 GTT Communications Inc.,Paris,France,FR,PacketExchange,48.8566,2.35222,Tinet GmbH,173.205.52.234,IDF,Île-de-France,success,Europe/Paris,75000,,AS3257
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.6139,77.209,Bharti Airtel,182.79.239.241,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:b::9,NY,New York,success,America/New_York,10013,,nan
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.6.147,NJ,New Jersey,success,America/New_York,07175,,AS2914
+AS1299,Paris,France,FR,Telia Company AB,48.8566,2.35222,Telia Company AB,62.115.114.98,IDF,Île-de-France,success,Europe/Paris,75000,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,London,United Kingdom,GB,TATA Communications,51.5074,-0.12775799999999998,Tata Communications Ltd.,80.231.130.23,ENG,England,success,Europe/London,W1B,,AS6453
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.2.252,CA,California,success,America/Los_Angeles,90009,,AS2914
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:0:1::9d,NY,New York,success,America/New_York,10013,,nan
+,,,,,,,,2001:1890:1fff:11b:192:20,,,fail,,,invalid query,nan
+,,,,,,,,fd00:0:b::35,,,fail,,,private range,nan
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:18::6,CO,Colorado,success,America/Denver,80111,,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:330::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Dallas,United States,US,TATA COMMUNICATIONS (AMERICA) INC,32.7889,-96.8021,TATA COMMUNICATIONS (AMERICA) INC,64.86.188.34,TX,Texas,success,America/Chicago,75201,,AS6453
+AS11351 Charter Communications Inc,Chestertown,United States,US,Charter Communications Inc,43.6529,-73.8013,Spectrum,24.58.201.126,NY,New York,success,America/New_York,12817,,AS11351
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.225,ON,Ontario,success,America/Toronto,M6G,,nan
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.156.215,NY,New York,success,America/New_York,10123,,AS1299
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.112,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.37.49,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+"AS7922 Comcast Cable Communications, LLC",Little Rock,United States,US,"Comcast Cable Communications, LLC",34.7386,-92.4231,"Comcast Cable Communications, LLC",50.242.151.61,AR,Arkansas,success,America/Chicago,72211,,AS7922
+,,,,,,,,2001:1890:1fff:10f:192:20,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",Tucson,United States,US,"Comcast Cable Communications, LLC",32.3381,-110.9814,"Comcast Cable Communications, LLC",50.248.118.245,AZ,Arizona,success,America/Phoenix,85704,,AS7922
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.2.35,VA,Virginia,success,America/New_York,20149,,nan
+"AS3356 Level 3 Parent, LLC",Walnut Creek,United States,US,"Level 3 Communications, Inc.",37.9208,-122.0182,Level 3,4.14.33.53,CA,California,success,America/Los_Angeles,94598,,AS3356
+"AS2914 NTT America, Inc.",London,United Kingdom,GB,"NTT America, Inc.",51.5074,-0.12775799999999998,"NTT America, Inc.",129.250.4.24,ENG,England,success,Europe/London,W1B,,AS2914
+AS11351 Charter Communications Inc,Glens Falls,United States,US,Charter Communications Inc,43.3095,-73.64399999999999,Spectrum,24.58.50.85,NY,New York,success,America/New_York,12801,,AS11351
+,,,,,,,,10.78.4.6,,,fail,,,private range,nan
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.120,ON,Ontario,success,America/Toronto,M6G,,AS14061
+AS3257 GTT Communications Inc.,Waukegan,United States,US,GTT Communications Inc.,42.354,-87.8675,GTT,208.116.212.10,IL,Illinois,success,America/Chicago,60085,,AS3257
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.6.176,NJ,New Jersey,success,America/New_York,07175,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.137,VA,Virginia,success,America/New_York,20149,,AS7922
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2415,-121.7834,"CVIMA, Inc",64.62.153.206,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS1299,Dallas,United States,US,Telia Company AB,32.7767,-96.79700000000001,Telia Company AB,62.115.156.209,TX,Texas,success,America/Chicago,75270,,AS1299
+,Old Toronto,Canada,CA,Choopa,43.6509,-79.3618,GameServers.com,2001:19f0:fc00::a49:119,ON,Ontario,success,America/Toronto,M5A 4L2,,nan
+AS1200 Amsterdam Internet Exchange B.V.,Amsterdam,Netherlands,NL,AMS-IX Amsterdam Peering (ISP) LAN,52.36,4.89814,,80.249.208.122,NH,North Holland,success,Europe/Amsterdam,1017,,AS1200
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.40.50,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00:2222:15::1,TX,Texas,success,America/Chicago,75270,,AS63949
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800::104,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS6939 Hurricane Electric LLC,Chicago,United States,US,Hurricane Electric LLC,41.8547,-87.6185,Hurricane Electric,184.105.213.114,IL,Illinois,success,America/Chicago,60616,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.206,NJ,New Jersey,success,America/New_York,08054,,AS7922
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.6.80,NJ,New Jersey,success,America/New_York,07175,,AS2914
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Kingston upon Thames,United Kingdom,GB,TATA Communications,51.4104,-0.3047,Tata Communications Ltd.,80.231.217.29,ENG,England,success,Europe/London,KT1,,AS6453
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.6139,77.209,Bharti Airtel,182.79.222.237,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:459::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.61,VA,Virginia,success,America/New_York,20149,,AS7922
+AS1299,Paris,France,FR,Telia Company AB,48.8566,2.35222,Telia Company AB,62.115.58.17,IDF,Île-de-France,success,Europe/Paris,75000,,AS1299
+AS7843 Charter Communications Inc,Dallas,United States,US,Spectrum,32.7767,-96.79700000000001,Time Warner Cable Internet LLC,66.109.6.1,TX,Texas,success,America/Chicago,75270,,AS7843
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800:0:4::41,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS7843 Charter Communications Inc,San Jose,United States,US,Spectrum,37.3382,-121.88600000000001,Time Warner Cable Internet LLC,66.109.1.16,CA,California,success,America/Los_Angeles,95141,,AS7843
+"AS7018 AT&T Services, Inc.",Chicago,United States,US,"AT&T Services, Inc.",41.8781,-87.6298,AT&T Corp,71.155.13.15,IL,Illinois,success,America/Chicago,60666,,AS7018
+,,,,,,,,2001:1890:1fff:11d:192:20,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.229,NJ,New Jersey,success,America/New_York,08054,,AS7922
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.40,ON,Ontario,success,America/Toronto,M6G,,nan
+AS1299,Toronto,Canada,CA,Telia Company AB,43.6532,-79.3832,Telia Company AB,62.115.55.29,ON,Ontario,success,America/Toronto,M5H,,AS1299
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.14,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+AS9498 BHARTI Airtel Ltd.,Gurgaon,India,IN,Bharti Airtel Limited,28.4969,77.0813,Bhartitelesonic,116.119.49.56,HR,Haryana,success,Asia/Kolkata,122001,,AS9498
+AS7843 Charter Communications Inc,San Jose,United States,US,Spectrum,37.3382,-121.88600000000001,Time Warner Cable Internet LLC,66.109.6.8,CA,California,success,America/Los_Angeles,95141,,AS7843
+"AS3356 Level 3 Parent, LLC",Newark,United States,US,"Level 3 Communications, Inc.",40.7357,-74.1724,"Level 3, LLC",4.68.37.194,NJ,New Jersey,success,America/New_York,07175,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.42.166,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS1299,Singapore,Singapore,SG,Telia Company AB,1.28009,103.851,Telia Company AB,213.248.68.168,,,success,Asia/Singapore,,,AS1299
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::402,NY,New York,success,America/New_York,10013,,nan
+"AS20473 Choopa, LLC",Seattle,United States,US,Choopa,47.6144,-122.3447,"Vultr Holdings, LLC",45.63.33.225,WA,Washington,success,America/Los_Angeles,98121,,AS20473
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Houston,United States,US,Verizon Communications,29.6968,-95.5446,"ANS Communications, Inc",152.179.21.145,TX,Texas,success,America/Chicago,77036,,AS701
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::423,NY,New York,success,America/New_York,10013,,nan
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.8,TX,Texas,success,America/Chicago,75270,,AS63949
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:301::1,CO,Colorado,success,America/Denver,80111,,nan
+AS174 Cogent Communications,Memphis,United States,US,Cogent Communications,35.1495,-90.04899999999999,"PSINet, Inc.",154.24.30.38,TN,Tennessee,success,America/Chicago,38101,,AS174
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:4000::1:4cbd,CO,Colorado,success,America/Denver,80111,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::408,NY,New York,success,America/New_York,10013,,nan
+AS1299,Paris,France,FR,Telia Company AB,48.8566,2.35222,Telia Company AB,62.115.123.13,IDF,Île-de-France,success,Europe/Paris,75000,,AS1299
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.233.91,NY,New York,success,America/New_York,10577,,nan
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.9,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS2914 NTT America, Inc.",Chai Wan,Hong Kong,HK,"NTT America, Inc.",22.2678,114.236,"NTT America, Inc.",129.250.66.150,HEA,Eastern,success,Asia/Hong_Kong,,,AS2914
+,,,,,,,,2001:1890:1fff:21c:192:20,,,fail,,,invalid query,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:431::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:37c::1,CO,Colorado,success,America/Denver,80111,,nan
+"AS7922 Comcast Cable Communications, LLC",Los Angeles,United States,US,"Comcast Cable Communications, LLC",34.0522,-118.244,"Comcast Cable Communications, Inc.",68.86.82.129,CA,California,success,America/Los_Angeles,90009,,AS7922
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.3.164,CA,California,success,America/Los_Angeles,90009,,AS2914
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.3.17,CA,California,success,America/Los_Angeles,90009,,AS2914
+AS7843 Charter Communications Inc,Albany,United States,US,Spectrum,42.6526,-73.7562,Time Warner Cable Internet LLC,66.109.6.75,NY,New York,success,America/New_York,12201,,AS7843
+,,,,,,,,10.66.4.38,,,fail,,,private range,nan
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.6139,77.209,Bharti Airtel,182.79.222.233,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS7843 Charter Communications Inc,Tustin,United States,US,Spectrum,33.742,-117.824,Time Warner Cable Internet LLC,66.109.1.219,CA,California,success,America/Los_Angeles,92780,,AS7843
+AS3257 GTT Communications Inc.,Chicago,United States,US,Tinet SpA,41.8823,-87.6286,Q Interactive,213.200.120.106,IL,Illinois,success,America/Chicago,60602,,AS3257
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:357::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.30,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+AS1299,Chicago,United States,US,Telia Company AB,41.8781,-87.6298,Telia Company AB,62.115.150.3,IL,Illinois,success,America/Chicago,60666,,AS1299
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,Telia Company AB,62.115.44.249,ENG,England,success,Europe/London,W1B,,AS1299
+AS1299,Miami,United States,US,Telia Company AB,25.7617,-80.1918,Telia Company AB,62.115.151.4,FL,Florida,success,America/New_York,33102,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.18,VA,Virginia,success,America/New_York,20149,,AS7922
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.236.23,NY,New York,success,America/New_York,10577,,nan
+AS174 Cogent Communications,Dallas,United States,US,Cogent Communications,32.7767,-96.79700000000001,Cogent communications - IPENG,154.54.47.213,TX,Texas,success,America/Chicago,75270,,AS174
+AS1299,Dallas,United States,US,Telia Company AB,32.7767,-96.79700000000001,Telia Company AB,62.115.137.106,TX,Texas,success,America/Chicago,75270,,AS1299
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,LINODE,2400:8902:5::2,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS3356 Level 3 Parent, LLC",San Diego,United States,US,"Level 3 Communications, Inc.",32.7405,-117.0935,Level,2001:1900:2100::260e,CA,California,success,America/Los_Angeles,92105,,AS3356
+AS11427 Charter Communications Inc,Austin,United States,US,Charter Communications,30.2971,-97.8181,Spectrum,24.55.46.183,TX,Texas,success,America/Chicago,78746,,AS11427
+"AS20473 Choopa, LLC",Sydney,Australia,AU,"Choopa, LLC",-33.8688,151.209,"Choopa, LLC",2001:19f0:5800::a4a:25,NSW,New South Wales,success,Australia/Sydney,1001,,AS20473
+AS1299,San Jose,United States,US,Telia Company AB,37.3382,-121.88600000000001,Telia Company AB,62.115.12.52,CA,California,success,America/Los_Angeles,95141,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, Inc.",68.86.213.150,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+"AS2914 NTT America, Inc.",Miami,United States,US,"NTT America, Inc.",25.7617,-80.1918,"NTT America, Inc.",129.250.3.209,FL,Florida,success,America/New_York,33102,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Philadelphia,United States,US,"Comcast Cable Communications, LLC",39.9526,-75.1652,"Comcast Cable Communications, Inc.",68.86.213.158,PA,Pennsylvania,success,America/New_York,19099,,AS7922
+AS11351 Charter Communications Inc,East Syracuse,United States,US,Charter Communications Inc,43.0653,-76.0785,Spectrum,24.58.52.111,NY,New York,success,America/New_York,13057,,AS11351
+"AS7018 AT&T Services, Inc.",New York,United States,US,AT&T Services,40.7128,-74.006,AT&T Worldnet Services,12.123.240.81,NY,New York,success,America/New_York,10123,,AS7018
+AS1299,Toronto,Canada,CA,Telia Company AB,43.6532,-79.3832,Telia Company AB,62.115.9.209,ON,Ontario,success,America/Toronto,M5H,,AS1299
+,Old Toronto,Canada,CA,Choopa,43.6509,-79.3618,GameServers.com,2001:19f0:fc00::a4c:89,ON,Ontario,success,America/Toronto,M5A 4L2,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.38,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.35.57,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.10,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.3.175,CA,California,success,America/Los_Angeles,95141,,AS2914
+AS6939 Hurricane Electric LLC,New York City,United States,US,Hurricane Electric LLC,40.7177,-74.0083,Hurricane Electric,72.52.92.102,NY,New York,success,America/New_York,10013,,AS6939
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Philadelphia,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",39.9526,-75.1652,Verizon Communications,100.41.130.217,PA,Pennsylvania,success,America/New_York,19099,,AS701
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::2a,NY,New York,success,America/New_York,10013,,nan
+AS6939 Hurricane Electric LLC,Seattle,United States,US,Hurricane Electric LLC,47.6143,-122.3388,Hurricane Electric,184.105.213.117,WA,Washington,success,America/Los_Angeles,98121,,AS6939
+"AS3491 PCCW Global, Inc.",San José,Costa Rica,CR,"PCCW Global, Inc.",9.92807,-84.0907,"PCCW Global, Inc.",63.223.60.106,SJ,Provincia de San Jose,success,America/Costa_Rica,11002,,AS3491
+"AS2914 NTT America, Inc.",Miami,United States,US,"NTT America, Inc.",25.7617,-80.1918,"NTT America, Inc.",129.250.3.41,FL,Florida,success,America/New_York,33102,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.141,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.102,VA,Virginia,success,America/New_York,20149,,AS7922
+AS7713 PT Telekomunikasi Indonesia,Old Toronto,Canada,CA,Telekomunikasi Indonesia,43.6493,-79.3912,Toronto Internet Exchange Community,206.108.34.112,ON,Ontario,success,America/Toronto,M5V-3E3,,AS7713
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Philadelphia,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",39.9523,-75.1638,Verizon Communications,130.81.171.89,PA,Pennsylvania,success,America/New_York,19099,,AS701
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:a::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:3f0::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:b::1,NY,New York,success,America/New_York,10013,,nan
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.226,NJ,New Jersey,success,America/New_York,08054,,AS7922
+AS3257 GTT Communications Inc.,Paris,France,FR,PacketExchange,48.8566,2.35222,GTT,69.174.23.149,IDF,Île-de-France,success,Europe/Paris,75000,,AS3257
+AS9498 BHARTI Airtel Ltd.,Bengaluru,India,IN,Bharti Airtel Limited,12.9721,77.5933,Bharti Airtel,202.56.198.29,KA,Karnataka,success,Asia/Kolkata,560002,,AS9498
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.106,ON,Ontario,success,America/Toronto,M6G,,AS14061
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2415,-121.7834,Hurricane Electric LLC,66.220.12.166,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS6939 Hurricane Electric LLC,Ashburn,United States,US,Hurricane Electric LLC,39.0163,-77.459,Hurricane Electric,184.105.81.150,VA,Virginia,success,America/New_York,20147,,AS6939
+"AS2914 NTT America, Inc.",Stockholm,Sweden,SE,"NTT America, Inc.",59.3293,18.0686,NTT America,192.80.17.173,AB,Stockholm,success,Europe/Stockholm,100 05,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, LLC",68.85.158.198,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.193,CO,Colorado,success,America/Denver,80208,,AS7922
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.88,ON,Ontario,success,America/Toronto,M6G,,nan
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.45.5,NY,New York,success,America/New_York,10123,,AS1299
+"AS3491 PCCW Global, Inc.",San José,Costa Rica,CR,"PCCW Global, Inc.",9.92807,-84.0907,"PCCW Global, Inc.",63.218.178.50,SJ,Provincia de San Jose,success,America/Costa_Rica,11002,,AS3491
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.71,ON,Ontario,success,America/Toronto,M6G,,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2415,-121.7834,Hurricane Electric,184.104.194.37,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS6461 Zayo Bandwidth,San Jose,United States,US,Zayo Bandwidth,37.3382,-121.88600000000001,Zayo Bandwidth,64.125.31.14,CA,California,success,America/Los_Angeles,95141,,AS6461
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.186,CO,Colorado,success,America/Denver,80208,,AS7922
+AS22773 Cox Communications Inc.,Ashburn,United States,US,Cox Communications Inc.,39.0438,-77.4874,Cox Communications,184.187.207.233,VA,Virginia,success,America/New_York,20149,,AS22773
+"AS3356 Level 3 Parent, LLC",London,United Kingdom,GB,"Level 3 Communications, Inc.",51.5074,-0.12775799999999998,"Level 3, LLC",4.69.208.174,ENG,England,success,Europe/London,W1B,,AS3356
+"AS3356 Level 3 Parent, LLC",Washington,United States,US,"Level 3 Communications, Inc.",38.9072,-77.0369,"Level 3, LLC",4.69.203.121,DC,District of Columbia,success,America/New_York,20068,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.35.50,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:2dc::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.169,CO,Colorado,success,America/Denver,80208,,AS7922
+AS6461 Zayo Bandwidth,San Jose,United States,US,Zayo Bandwidth,37.3382,-121.88600000000001,Zayo Bandwidth,64.125.13.77,CA,California,success,America/Los_Angeles,95141,,AS6461
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5164,-0.09300000000000001,Telia Company AB,62.115.134.138,ENG,England,success,Europe/London,EC2V,,AS1299
+AS6461 Zayo Bandwidth,Denver,United States,US,Zayo Bandwidth,39.7392,-104.99,Zayo Bandwidth,64.125.31.218,CO,Colorado,success,America/Denver,80208,,AS6461
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.138,VA,Virginia,success,America/New_York,20149,,AS7922
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.0.20,VA,Virginia,success,America/New_York,20149,,nan
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, LLC",96.108.181.22,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+"AS2914 NTT America, Inc.",London,United Kingdom,GB,"NTT America, Inc.",51.5074,-0.12775799999999998,"NTT America, Inc.",129.250.2.234,ENG,England,success,Europe/London,W1B,,AS2914
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Holbrook,United States,US,Verizon Communications,40.7963,-73.0665,"ANS Communications, Inc",152.179.49.133,NY,New York,success,America/New_York,11741,,AS701
+"AS7018 AT&T Services, Inc.",Washington,United States,US,"AT&T Services, Inc.",38.9072,-77.0369,AT&T Mobility LLC,2600:300:2050:1620::2,DC,District of Columbia,success,America/New_York,20068,,AS7018
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.181,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.42.162,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3019:bf::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.39.161,GA,Georgia,success,America/New_York,30006,,AS7922
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.29.212,NY,New York,success,America/New_York,10123,,AS6461
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:c::25,NY,New York,success,America/New_York,10013,,nan
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::8d,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS14061 DigitalOcean, LLC",Clifton,United States,US,"DigitalOcean, LLC",40.8364,-74.1403,"DigitalOcean, LLC",134.209.160.254,NJ,New Jersey,success,America/New_York,07014,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.42.174,IL,Illinois,success,America/Chicago,60616,,AS7922
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:c::21,NY,New York,success,America/New_York,10013,,nan
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:7d::1,CO,Colorado,success,America/Denver,80111,,nan
+AS6128 Cablevision Systems Corp.,Lyndhurst,United States,US,Cablevision Systems Corp.,40.812,-74.1243,Optimum Online,67.83.246.2,NJ,New Jersey,success,America/New_York,07071,,AS6128
+,,,,,,,,2001:1890:1fff:607:192:20,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.249,NJ,New Jersey,success,America/New_York,08054,,AS7922
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:a90::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7415,-74.0034,Tata Communications,216.6.81.32,NY,New York,success,America/New_York,10011,,AS6453
+AS4755 TATA Communications formerly VSNL is Leading ISP,Mumbai,India,IN,Tata Communications Limited,19.0748,72.8856,Tata Communications Limited,2403::610,MH,Maharashtra,success,Asia/Kolkata,400070,,AS4755
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7414,-74.0032,Tata Communications Ltd,63.243.128.122,NY,New York,success,America/New_York,10011,,AS6453
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Dallas,United States,US,TATA COMMUNICATIONS (AMERICA) INC,32.7767,-96.79700000000001,Tata Communications Ltd.,66.110.56.18,TX,Texas,success,America/Chicago,75207,,AS6453
+"AS7018 AT&T Services, Inc.",Washington,United States,US,"AT&T Services, Inc.",38.9072,-77.0369,AT&T Mobility LLC,2600:300:2050:101::3,DC,District of Columbia,success,America/New_York,20068,,AS7018
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.0,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Highland Park,United States,US,"Comcast Cable Communications, LLC",42.176,-87.809,"Comcast IP Services, L.L.C.",73.246.0.206,IL,Illinois,success,America/Chicago,60035,,AS7922
+AS6939 Hurricane Electric LLC,London,United Kingdom,GB,Hurricane Electric LLC,51.498000000000005,-0.0143,Hurricane Electric,72.52.92.213,ENG,England,success,Europe/London,E14 9GE,,AS6939
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:c::49,NY,New York,success,America/New_York,10013,,nan
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.106,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7922 Comcast Cable Communications, LLC",McKeesport,United States,US,"Comcast Cable Communications, LLC",40.3471,-79.8641,"Comcast IP Services, L.L.C.",96.110.26.210,PA,Pennsylvania,success,America/New_York,15131,,AS7922
+AS3257 GTT Communications Inc.,Paris,France,FR,GTT,48.8566,2.35222,Tinet GmbH,2001:668:0:3::8000:ed1,IDF,Île-de-France,success,Europe/Paris,75000,,AS3257
+,,,,,,,,2001:668:0:3:ffff:0:adf1:,,,fail,,,invalid query,nan
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00:2222:10::1,TX,Texas,success,America/Chicago,75270,,AS63949
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800::212,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS1299,Paris,France,FR,Telia Company AB,48.8566,2.35222,Telia Company AB,62.115.113.182,IDF,Île-de-France,success,Europe/Paris,75000,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:451::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.201,VA,Virginia,success,America/New_York,20149,,AS7922
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3019:74::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Newark,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",40.7641,-74.1654,Verizon Communications,63.65.76.185,NJ,New Jersey,success,America/New_York,07104,,AS701
+AS17819 Equinix Asia Pacific,Earlwood,Australia,AU,Equinix Asia Pacific Pte Ltd,-33.9285,151.1257,Equinix Australia Pty Ltd,180.189.25.5,NSW,New South Wales,success,Australia/Sydney,2206,,AS17819
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.132,ON,Ontario,success,America/Toronto,M6G,,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:12::d,NY,New York,success,America/New_York,10013,,nan
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.22,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.44,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.222,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.6,VA,Virginia,success,America/New_York,20149,,AS7922
+AS3257 GTT Communications Inc.,New York,United States,US,GTT Communications Inc.,40.7619,-73.9724,Tinet,216.221.157.89,NY,New York,success,America/New_York,10022,,AS3257
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3019:6b::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.101,VA,Virginia,success,America/New_York,20149,,AS7922
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc,2001:578:2300:4::63,GA,Georgia,success,America/New_York,30319,,AS22773
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800:3a00::b5,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,London,United Kingdom,GB,TATA Communications,51.5074,-0.12775799999999998,Tata Communications Ltd.,80.231.130.195,ENG,England,success,Europe/London,W1B,,AS6453
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",129.250.4.80,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS2914 NTT America, Inc.",Tokyo,Japan,JP,"NTT America, Inc.",35.709,139.732,"NTT America, Inc.",129.250.6.126,13,Tokyo,success,Asia/Tokyo,162-0801,,AS2914
+,,,,,,,,10.78.4.0,,,fail,,,private range,nan
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7308,-73.9975,Tata Communications,66.110.96.146,NY,New York,success,America/New_York,10011,,AS6453
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,LINODE,2400:8902::fa66:f2ff:fe00,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7056,-73.97800000000001,"Level 3, LLC",4.69.218.73,NY,New York,success,America/New_York,10123,,AS3356
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:9::1,CO,Colorado,success,America/Denver,80111,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.173,VA,Virginia,success,America/New_York,20149,,AS7922
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:9f9::2,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS2914 NTT America, Inc.",Chai Wan,Hong Kong,HK,"NTT America, Inc.",22.2678,114.236,"NTT America, Inc.",129.250.66.34,HEA,Eastern,success,Asia/Hong_Kong,,,AS2914
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::d9,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS7843 Charter Communications Inc,Houston,United States,US,Spectrum,29.7604,-95.3698,Time Warner Cable Internet LLC,66.109.6.109,TX,Texas,success,America/Chicago,77052,,AS7843
+AS11427 Charter Communications Inc,Cedar Park,United States,US,Charter Communications Inc,30.5045,-97.8209,Spectrum,66.68.1.74,TX,Texas,success,America/Chicago,78613,,AS11427
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:12::9,NY,New York,success,America/New_York,10013,,nan
+AS174 Cogent Communications,Dallas,United States,US,Cogent Communications,32.7767,-96.79700000000001,Cogent communications - IPENG,154.54.10.214,TX,Texas,success,America/Chicago,75270,,AS174
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Montreal,Canada,CA,TATA COMMUNICATIONS (AMERICA) INC,45.5017,-73.5673,TATA COMMUNICATIONS (AMERICA) INC,2001:5a0:12:200::12,QC,Quebec,success,America/Toronto,H4X,,AS6453
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:48::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.138,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast Cable Communications, Inc",69.139.233.66,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS3356 Level 3 Parent, LLC",San Diego,United States,US,"Level 3 Communications, Inc.",32.7405,-117.0935,Level,2001:1900:2100::4625,CA,California,success,America/Los_Angeles,92105,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.87.174,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS1299,Frankfurt am Main,Germany,DE,Telia Company AB,50.1109,8.68213,Telia Company AB,62.115.47.24,HE,Hesse,success,Europe/Berlin,60313,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.210,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.37.13,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS7843 Charter Communications Inc,San Jose,United States,US,Spectrum,37.3382,-121.88600000000001,Time Warner Cable Internet LLC,66.109.6.136,CA,California,success,America/Los_Angeles,95141,,AS7843
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:440::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.42,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Miami,United States,US,"NTT America, Inc.",25.7617,-80.1918,"NTT America, Inc.",129.250.2.203,FL,Florida,success,America/New_York,33102,,AS2914
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,Telia Company AB,62.115.113.239,ENG,England,success,Europe/London,W1B,,AS1299
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:53::1,CO,Colorado,success,America/Denver,80111,,nan
+"AS3356 Level 3 Parent, LLC",London,United Kingdom,GB,"Level 3 Communications, Inc.",51.5074,-0.12775799999999998,"Level 3, LLC",4.68.106.118,ENG,England,success,Europe/London,W1B,,AS3356
+,,,,,,,,2001:668:0:2:ffff:0:8d88:,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.40.58,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::21,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS3356 Level 3 Parent, LLC",Los Angeles,United States,US,"Level 3 Communications, Inc.",34.0522,-118.244,"Level 3, LLC",4.69.207.37,CA,California,success,America/Los_Angeles,90009,,AS3356
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.36.253,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+,,,,,,,,2001:1890:ff:ffff:12:123:,,,fail,,,invalid query,nan
+"AS7018 AT&T Services, Inc.",Washington,United States,US,"AT&T Services, Inc.",38.9072,-77.0369,AT&T Mobility LLC,2600:300:2050:109::1,DC,District of Columbia,success,America/New_York,20068,,AS7018
+,London,United Kingdom,GB,LINX-PEER-LON1,51.498000000000005,-0.0143,Linx Peer Lon1,195.66.224.21,ENG,England,success,Europe/London,E14 9GE,,nan
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3702,4.895169999999999,TeliaSonera AB,213.155.130.177,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.133,VA,Virginia,success,America/New_York,20149,,AS7922
+AS393424 Toronto Internet Exchange Community,Old Toronto,Canada,CA,Toronto Internet Exchange Community,43.6493,-79.3912,Toronto Internet Exchange Community,2001:504:1a::34:112,ON,Ontario,success,America/Toronto,M5V-3E3,,AS393424
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.6.119,CA,California,success,America/Los_Angeles,95141,,AS2914
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric,37.2415,-121.7834,GuardLayer Inc,184.105.65.114,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS6939 Hurricane Electric LLC,Tokyo,Japan,JP,Hurricane Electric,35.6174,139.7481,Vps21 LTD,184.105.64.254,13,Tokyo,success,Asia/Tokyo,140-0002,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.14,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS2914 NTT America, Inc.",Chicago,United States,US,NTT America,41.8781,-87.6298,NTT America - Global IP Network,157.238.179.153,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.29.126,NY,New York,success,America/New_York,10123,,AS6461
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,TeliaSonera AB,213.155.136.166,ENG,England,success,Europe/London,W1B,,AS1299
+"AS3491 PCCW Global, Inc.",Rochelle,United States,US,PCCW Global,41.9195,-89.0675,DNA Communications INC,63.218.50.53,IL,Illinois,success,America/Chicago,61068,,AS3491
+AS4826 Vocus Connect International Backbone,Sydney,Australia,AU,Vocus PTY LTD,-33.8591,151.2002,Vocus PTY LTD,114.31.192.86,NSW,New South Wales,success,Australia/Sydney,2000,,AS4826
+"AS14061 DigitalOcean, LLC",San Francisco,United States,US,"DigitalOcean, LLC",37.7353,-122.3732,"Digital Ocean, Inc.",104.236.128.254,CA,California,success,America/Los_Angeles,94124,,AS14061
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::1bd,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.76,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.10,NJ,New Jersey,success,America/New_York,08054,,AS7922
+"AS2914 NTT America, Inc.",Osaka,Japan,JP,"NTT America, Inc.",34.6937,135.502,NTT Communications Corporation,2001:218:c000:2000::9,27,Ōsaka,success,Asia/Tokyo,540-0002,,AS2914
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.4.119,CA,California,success,America/Los_Angeles,95141,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.77,VA,Virginia,success,America/New_York,20149,,AS7922
+AS4637 Telstra Global,Wanchai,Hong Kong,HK,Telstra International Limited,22.2798,114.171,Telstra International Limited,202.84.219.182,HWC,Wan Chai,success,Asia/Hong_Kong,96521,,AS4637
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:0:5000::ba2,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:33b::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:b::11,NY,New York,success,America/New_York,10013,,nan
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.4,TX,Texas,success,America/Chicago,75270,,AS63949
+AS7843 Charter Communications Inc,Tustin,United States,US,Spectrum,33.742,-117.824,Time Warner Cable Internet LLC,66.109.6.5,CA,California,success,America/Los_Angeles,92780,,AS7843
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA Communications,19.076,72.8777,,180.87.38.5,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.37.57,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+"AS2914 NTT America, Inc.",London,United Kingdom,GB,"NTT America, Inc.",51.5074,-0.12775799999999998,"NTT America, Inc.",129.250.2.26,ENG,England,success,Europe/London,W1B,,AS2914
+AS3257 GTT Communications Inc.,Dallas,United States,US,PacketExchange,32.7767,-96.79700000000001,GTT,69.174.4.46,TX,Texas,success,America/Chicago,75270,,AS3257
+,Old Toronto,Canada,CA,Choopa,43.6509,-79.3618,GameServers.com,2001:19f0:fc00::a42:4e,ON,Ontario,success,America/Toronto,M5A 4L2,,nan
+AS22773 Cox Communications Inc.,Ashburn,United States,US,Cox Communications Inc.,39.0438,-77.4874,Cox Communications Inc,2001:578:2200:5::1f,VA,Virginia,success,America/New_York,20149,,AS22773
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.149.65,VA,Virginia,success,America/New_York,20149,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,London,United Kingdom,GB,TATA Communications,51.5074,-0.12775799999999998,Tata Communications Ltd.,80.231.131.160,ENG,England,success,Europe/London,W1B,,AS6453
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.172.49,NY,New York,success,America/New_York,10123,,AS1299
+"AS3491 PCCW Global, Inc.",San José,Costa Rica,CR,"PCCW Global, Inc.",9.92807,-84.0907,"PCCW Global, Inc.",63.223.60.58,SJ,Provincia de San Jose,success,America/Costa_Rica,11002,,AS3491
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00:2222:17::1,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS2914 NTT America, Inc.",New York,United States,US,"NTT America, Inc.",40.7903,-73.9597,"NTT America, Inc.",129.250.6.97,NY,New York,success,America/New_York,10123,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.78,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Los Angeles,United States,US,"Comcast Cable Communications, LLC",34.0522,-118.244,"Comcast Cable Communications, Inc.",68.86.82.153,CA,California,success,America/Los_Angeles,90009,,AS7922
+AS7843 Charter Communications Inc,Atlanta,United States,US,Spectrum,33.749,-84.38799999999999,Time Warner Cable Internet LLC,66.109.5.237,GA,Georgia,success,America/New_York,30302,,AS7843
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.46,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.34.117,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+AS1299,Los Angeles,United States,US,Telia Company AB,34.0522,-118.244,Telia Company AB,62.115.137.39,CA,California,success,America/Los_Angeles,90009,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:72::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:1b1::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS3356 Level 3 Parent, LLC",San Diego,United States,US,"Level 3 Communications, Inc.",32.7405,-117.0935,Level,2001:1900:2100::40dd,CA,California,success,America/Los_Angeles,92105,,AS3356
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::189,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.3.103,CA,California,success,America/Los_Angeles,95141,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.8,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.6.49,CA,California,success,America/Los_Angeles,90009,,AS2914
+AS6461 Zayo Bandwidth,San Jose,United States,US,Zayo Bandwidth,37.3382,-121.88600000000001,Zayo Bandwidth,64.125.30.230,CA,California,success,America/Los_Angeles,95141,,AS6461
+"AS7922 Comcast Cable Communications, LLC",Little Rock,United States,US,"Comcast Cable Communications, LLC",34.7386,-92.4231,"Comcast Cable Communications, LLC",50.242.151.69,AR,Arkansas,success,America/Chicago,72211,,AS7922
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA COMMUNICATIONS (AMERICA) INC,19.021,72.8304,TATA Communications Ltd,2001:5a0:2300:300::15,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+AS4637 Telstra Global,Wanchai,Hong Kong,HK,Telstra International Limited,22.2798,114.171,Telstra International Limited,202.84.136.2,HWC,Wan Chai,success,Asia/Hong_Kong,96521,,AS4637
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::40a,NY,New York,success,America/New_York,10013,,nan
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7128,-74.006,"Level 3, LLC",2001:1900:4:3::69e,NY,New York,success,America/New_York,10123,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, Inc.",68.86.214.226,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+"AS2914 NTT America, Inc.",Paris,France,FR,Ntte Infra,48.8566,2.35222,NTT Europe Ltd.,2001:728:0:5000::f8d,IDF,Île-de-France,success,Europe/Paris,75000,,AS2914
+AS7843 Charter Communications Inc,Houston,United States,US,Spectrum,29.7604,-95.3698,Time Warner Cable Internet LLC,66.109.9.89,TX,Texas,success,America/Chicago,77052,,AS7843
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc.,2001:578:1:0:172:17:249:4,GA,Georgia,success,America/New_York,30319,,AS22773
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.7.69,CA,California,success,America/Los_Angeles,90009,,AS2914
+AS3257 GTT Communications Inc.,Omaha,United States,US,Tinet SpA,41.2141,-96.1365,Vente,213.200.127.178,NE,Nebraska,success,America/Chicago,68137,,AS3257
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.39.162,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,"NTT America, Inc.",129.250.207.201,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+"AS2914 NTT America, Inc.",Tokyo,Japan,JP,"NTT America, Inc.",35.709,139.732,"NTT America, Inc.",129.250.6.130,13,Tokyo,success,Asia/Tokyo,162-0801,,AS2914
+AS1299,Chicago,United States,US,Telia Company AB,41.8781,-87.6298,Telia Company AB,62.115.117.49,IL,Illinois,success,America/Chicago,60666,,AS1299
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:63f::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:2cf::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS2914 NTT America, Inc.",London,United Kingdom,GB,"NTT America, Inc.",51.5074,-0.12775799999999998,"NTT America, Inc.",129.250.3.190,ENG,England,success,Europe/London,W1B,,AS2914
+AS6939 Hurricane Electric LLC,New York City,United States,US,Hurricane Electric,40.7414,-74.0033,Vps21 LTD,184.105.64.177,NY,New York,success,America/New_York,10011,,AS6939
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:4000::3:4cb0,CO,Colorado,success,America/Denver,80111,,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:299::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS7843 Charter Communications Inc,New York,United States,US,Spectrum,40.7831,-73.9713,Time Warner Cable Internet LLC,66.109.5.118,NY,New York,success,America/New_York,10123,,AS7843
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.218,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.170,VA,Virginia,success,America/New_York,20149,,AS7922
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:f::5,CO,Colorado,success,America/Denver,80111,,nan
+"AS3356 Level 3 Parent, LLC",Los Angeles,United States,US,"Level 3 Communications, Inc.",34.0522,-118.244,"Level 3, LLC",4.68.71.170,CA,California,success,America/Los_Angeles,90009,,AS3356
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7128,-74.006,"Level 3, LLC",2001:1900:4:3::47e,NY,New York,success,America/New_York,10123,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.9,CO,Colorado,success,America/Denver,80208,,AS7922
+AS22773 Cox Communications Inc.,Macon,United States,US,Cox Communications Inc.,32.7486,-83.7477,Cox Communications Inc.,68.1.0.185,GA,Georgia,success,America/New_York,31216,,AS22773
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7128,-74.006,"Level 3, LLC",2001:1900::3:196,NY,New York,success,America/New_York,10123,,AS3356
+,,,,,,,,fd42:9f74:2ca8:5f90::1,,,fail,,,private range,nan
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.34.53,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+AS3257 GTT Communications Inc.,Marbella,Spain,ES,Tinet SpA,36.5094,-4.8871400000000005,Web Costasol,213.254.230.169,AN,Andalusia,success,Europe/Madrid,29600,,AS3257
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:3c1::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.0.177,VA,Virginia,success,America/New_York,20149,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.81,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.104,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,"NTT America, Inc.",129.250.4.142,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS1299,Paris,France,FR,Telia Company AB,48.8566,2.35222,De Telianet,80.239.135.179,IDF,Île-de-France,success,Europe/Paris,75000,,AS1299
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:238::2,CO,Colorado,success,America/Denver,80111,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.0,ON,Ontario,success,America/Toronto,M6G,,nan
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:32d::1,CO,Colorado,success,America/Denver,80111,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.134,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS14061 DigitalOcean, LLC",Amsterdam,Netherlands,NL,"DigitalOcean, LLC",52.373999999999995,4.8897,Digital Ocean,128.199.32.254,NH,North Holland,success,Europe/Amsterdam,1012,,AS14061
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.36,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.74,VA,Virginia,success,America/New_York,20149,,AS7922
+AS22773 Cox Communications Inc.,Cleveland,United States,US,Cox Communications Inc.,41.3844,-81.7003,Cox Communications Inc.,68.105.30.225,OH,Ohio,success,America/New_York,44134,,AS22773
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.36.109,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7128,-74.006,"Level 3, LLC",2001:1900::3:21f,NY,New York,success,America/New_York,10123,,AS3356
+"AS7018 AT&T Services, Inc.",Chicago,United States,US,"AT&T Services, Inc.",41.8781,-87.6298,AT&T Corp,71.155.13.13,IL,Illinois,success,America/Chicago,60666,,AS7018
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.36.97,NJ,New Jersey,success,America/New_York,07175,,AS7922
+AS1299,Kansas City,United States,US,Telia Company AB,39.1141,-94.6275,Telia Company AB,62.115.125.158,KS,Kansas,success,America/Chicago,66117,,AS1299
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",San Jose,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",37.2415,-121.7834,"Equinix, Inc.",206.223.116.37,CA,California,success,America/Los_Angeles,95119,,AS701
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.54.210,NY,New York,success,America/New_York,10123,,AS6461
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.3.2,VA,Virginia,success,America/New_York,20149,,nan
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc,2001:578:20::d,GA,Georgia,success,America/New_York,30319,,AS22773
+"AS2914 NTT America, Inc.",New York,United States,US,"NTT America, Inc.",40.7903,-73.9597,"NTT America, Inc.",129.250.3.129,NY,New York,success,America/New_York,10123,,AS2914
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,LINODE,2400:8902:b::1,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS2914 NTT America, Inc.",Chicago,United States,US,NTT America,41.8781,-87.6298,NTT America - Global IP Network,157.238.179.237,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS7843 Charter Communications Inc,San Jose,United States,US,Spectrum,37.3382,-121.88600000000001,Time Warner Cable Internet LLC,66.109.6.11,CA,California,success,America/Los_Angeles,95141,,AS7843
+"AS2914 NTT America, Inc.",Chicago,United States,US,NTT America,41.8781,-87.6298,NTT America - Global IP Network,157.238.179.217,IL,Illinois,success,America/Chicago,60666,,AS2914
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7263,-73.9818,Level 3,4.30.178.30,NY,New York,success,America/New_York,10009,,AS3356
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.214,ON,Ontario,success,America/Toronto,M6G,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.94,ON,Ontario,success,America/Toronto,M6G,,nan
+AS6939 Hurricane Electric LLC,Seattle,United States,US,Hurricane Electric LLC,47.6143,-122.3388,Hurricane Electric,66.160.133.118,WA,Washington,success,America/Los_Angeles,98121,,AS6939
+,,,,,,,,2001:668:0:2:ffff:0:d5fe:,,,fail,,,invalid query,nan
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,TeliaSonera AB,80.91.248.157,ENG,England,success,Europe/London,W1B,,AS1299
+"AS2914 NTT America, Inc.",Chicago,United States,US,NTT America,41.8781,-87.6298,NTT America - Global IP Network,168.143.229.58,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS11427 Charter Communications Inc,Cedar Park,United States,US,Charter Communications Inc,30.5045,-97.8209,Spectrum,66.68.1.66,TX,Texas,success,America/Chicago,78613,,AS11427
+,,,,,,,,2600:8805:ff04:101:b8c1:9,,,fail,,,invalid query,nan
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.122,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7922 Comcast Cable Communications, LLC",McKeesport,United States,US,"Comcast Cable Communications, LLC",40.3471,-79.8641,"Comcast IP Services, L.L.C.",96.110.26.218,PA,Pennsylvania,success,America/New_York,15131,,AS7922
+AS6461 Zayo Bandwidth,Seattle,United States,US,Zayo Bandwidth,47.6062,-122.33200000000001,Zayo Bandwidth,64.125.31.104,WA,Washington,success,America/Los_Angeles,98111,,AS6461
+AS11351 Charter Communications Inc,East Syracuse,United States,US,Charter Communications Inc,43.0653,-76.0785,Spectrum,24.58.52.189,NY,New York,success,America/New_York,13057,,AS11351
+AS3257 GTT Communications Inc.,Boca Raton,United States,US,Tinet SpA,26.3955,-80.0771,Bravatas,213.200.119.182,FL,Florida,success,America/New_York,33487,,AS3257
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT Europe, Ltd.",213.198.52.57,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.2.51,NY,New York,success,America/New_York,10577,,nan
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7414,-74.0032,Tata Communications Ltd,63.243.128.37,NY,New York,success,America/New_York,10011,,AS6453
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::246,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,PL Telianet,80.239.192.37,NY,New York,success,America/New_York,10123,,AS1299
+AS7843 Charter Communications Inc,Los Angeles,United States,US,Spectrum,34.0522,-118.244,Time Warner Cable Internet LLC,66.109.6.7,CA,California,success,America/Los_Angeles,90009,,AS7843
+AS7843 Charter Communications Inc,Dallas,United States,US,Spectrum,32.7767,-96.79700000000001,Time Warner Cable Internet LLC,66.109.6.53,TX,Texas,success,America/Chicago,75270,,AS7843
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:7:1::19,NY,New York,success,America/New_York,10013,,nan
+AS17819 Equinix Asia Pacific,Chuo,Japan,JP,Equinix Asia Pacific Pte Ltd,35.681999999999995,139.774,Equinix Asia Pacific Pte Ltd,119.27.49.116,13,Tokyo,success,Asia/Tokyo,289-2614,,AS17819
+AS6939 Hurricane Electric LLC,Chicago,United States,US,Hurricane Electric LLC,41.8547,-87.6185,Hurricane Electric,184.105.250.38,IL,Illinois,success,America/Chicago,60616,,AS6939
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.9.62,CA,California,success,America/Los_Angeles,90009,,AS2914
+,San Jose,United States,US,AGIS,37.3382,-121.88600000000001,AGIS,204.68.252.97,CA,California,success,America/Los_Angeles,95141,,nan
+"AS3356 Level 3 Parent, LLC",Newark,United States,US,"Level 3 Communications, Inc.",40.7357,-74.1724,"Level 3, LLC",4.68.74.178,NJ,New Jersey,success,America/New_York,07175,,AS3356
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:4d9::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.40.46,GA,Georgia,success,America/New_York,30006,,AS7922
+,,,,,,,,2001:1890:ff:ffff:12:83:1,,,fail,,,invalid query,nan
+AS1299,Frankfurt am Main,Germany,DE,Telia Company AB,50.1109,8.68213,Telianet,195.12.254.196,HE,Hesse,success,Europe/Berlin,60313,,AS1299
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.237.15,NY,New York,success,America/New_York,10577,,nan
+"AS14061 DigitalOcean, LLC",Newark,United States,US,"DigitalOcean, LLC",40.7357,-74.1724,"DigitalOcean, LLC",162.243.191.247,NJ,New Jersey,success,America/New_York,07175,,AS14061
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Los Angeles,United States,US,Verizon Communications,34.0584,-118.27799999999999,"ANS Communications, Inc",204.148.11.237,CA,California,success,America/Los_Angeles,90017,,AS701
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Albany,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",42.6526,-73.7562,Verizon Communications,100.41.0.37,NY,New York,success,America/New_York,12201,,AS701
+,,,,,,,,2400:6180:0:d0:ffff:ffff:,,,fail,,,invalid query,nan
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:7:1::11,NY,New York,success,America/New_York,10013,,nan
+AS6128 Cablevision Systems Corp.,Lyndhurst,United States,US,Cablevision Systems Corp.,40.812,-74.1243,Optimum Online,67.83.246.14,NJ,New Jersey,success,America/New_York,07071,,AS6128
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7308,-73.9975,Tata Communications,66.110.96.150,NY,New York,success,America/New_York,10011,,AS6453
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.109,VA,Virginia,success,America/New_York,20149,,AS7922
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:7c34::2,CO,Colorado,success,America/Denver,80111,,nan
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.233.103,NY,New York,success,America/New_York,10577,,nan
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.39.49,GA,Georgia,success,America/New_York,30006,,AS7922
+"AS2914 NTT America, Inc.",Sydney,Australia,AU,"NTT America, Inc.",-33.8649,151.204,NTT Australia Pty Ltd,202.68.65.5,NSW,New South Wales,success,Australia/Sydney,1001,,AS2914
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7128,-74.006,"Level 3, LLC",2001:1900::3:19b,NY,New York,success,America/New_York,10123,,AS3356
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.142,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.166,NJ,New Jersey,success,America/New_York,07175,,AS7922
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.233.93,NY,New York,success,America/New_York,10577,,nan
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::aa,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS7922 Comcast Cable Communications, LLC",San Antonio,United States,US,"Comcast Cable Communications, LLC",29.4809,-98.6014,"Comcast Cable Communications, LLC",173.167.57.17,TX,Texas,success,America/Chicago,78238,,AS7922
+,,,,,,,,fd00:0:b::3,,,fail,,,private range,nan
+"AS3356 Level 3 Parent, LLC",Paris,France,FR,"Level 3 Communications, Inc.",48.8566,2.35222,Ipercast,212.73.205.85,IDF,Île-de-France,success,Europe/Paris,75000,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.37.162,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.169,NJ,New Jersey,success,America/New_York,08054,,AS7922
+,,,,,,,,fd00:0:b::1,,,fail,,,private range,nan
+AS6461 Zayo Bandwidth,Chicago,United States,US,Zayo Bandwidth,41.8781,-87.6298,Zayo Bandwidth,64.125.29.18,IL,Illinois,success,America/Chicago,60666,,AS6461
+"AS3356 Level 3 Parent, LLC",Fullerton,United States,US,"Level 3 Communications, Inc.",33.884,-117.8941,"Level 3 Communications, Inc.",4.7.26.46,CA,California,success,America/Los_Angeles,92831,,AS3356
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.2.186,CA,California,success,America/Los_Angeles,90009,,AS2914
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Boston,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",42.3601,-71.0589,Verizon Communications,100.41.9.121,MA,Massachusetts,success,America/New_York,02112,,AS701
+AS11351 Charter Communications Inc,Chestertown,United States,US,Charter Communications Inc,43.6529,-73.8013,Spectrum,24.58.201.122,NY,New York,success,America/New_York,12817,,AS11351
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::16,NY,New York,success,America/New_York,10013,,nan
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.3.123,CA,California,success,America/Los_Angeles,90009,,AS2914
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,London,United Kingdom,GB,TATA Communications,51.5074,-0.12775799999999998,Tata Communications Ltd.,80.231.130.106,ENG,England,success,Europe/London,W1B,,AS6453
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3019:6c::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Philadelphia,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",39.9526,-75.1652,Verizon Communications,100.41.130.215,PA,Pennsylvania,success,America/New_York,19099,,AS701
+"AS20473 Choopa, LLC",Alexandria,Australia,AU,Choopa,-33.9118,151.19299999999998,"Vultr Holdings, LLC",2001:19f0:5800:40::1,NSW,New South Wales,success,Australia/Sydney,2015,,AS20473
+AS7843 Charter Communications Inc,Vienna,United States,US,Spectrum,38.9012,-77.2653,Time Warner Cable Internet LLC,66.109.6.3,VA,Virginia,success,America/New_York,22180,,AS7843
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00:2222:10::2,TX,Texas,success,America/Chicago,75270,,AS63949
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::1e,NY,New York,success,America/New_York,10013,,nan
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.3.193,CA,California,success,America/Los_Angeles,90009,,AS2914
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Old Toronto,Canada,CA,TATA COMMUNICATIONS (AMERICA) INC,43.6446,-79.3842,Tata Communications,64.86.33.53,ON,Ontario,success,America/Toronto,M5J-2N1,,AS6453
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.26,ON,Ontario,success,America/Toronto,M6G,,nan
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:40ef::2,CO,Colorado,success,America/Denver,80111,,nan
+"AS14061 DigitalOcean, LLC",Amsterdam,Netherlands,NL,"DigitalOcean, LLC",52.373999999999995,4.8897,Digital Ocean,128.199.32.253,NH,North Holland,success,Europe/Amsterdam,1012,,AS14061
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.137.99,NY,New York,success,America/New_York,10123,,AS1299
+AS4637 Telstra Global,Palo Alto,United States,US,Telstra International Limited,37.4419,-122.14299999999999,Telstra Xinova,210.176.40.27,CA,California,success,America/Los_Angeles,94302,,AS4637
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.552,77.2695,BHARTI,2404:a800::92,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.150,NJ,New Jersey,success,America/New_York,08054,,AS7922
+AS1299,Atlanta,United States,US,Telia Company AB,33.749,-84.38799999999999,Telia Company AB,62.115.125.128,GA,Georgia,success,America/New_York,30302,,AS1299
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.115.1,NY,New York,success,America/New_York,10123,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7308,-73.9975,Tata Communications,66.110.96.5,NY,New York,success,America/New_York,10011,,AS6453
+AS6461 Zayo Bandwidth,Dallas,United States,US,Zayo Bandwidth,32.7767,-96.79700000000001,Zayo Bandwidth,64.125.31.60,TX,Texas,success,America/Chicago,75270,,AS6461
+"AS2914 NTT America, Inc.",Tokyo,Japan,JP,"NTT America, Inc.",35.709,139.732,"NTT America, Inc.",129.250.6.128,13,Tokyo,success,Asia/Tokyo,162-0801,,AS2914
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Boston,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",42.3601,-71.0589,Verizon Communications,100.41.9.123,MA,Massachusetts,success,America/New_York,02112,,AS701
+"AS2914 NTT America, Inc.",Ashburn,United States,US,"NTT America, Inc.",39.0438,-77.4874,"NTT America, Inc.",129.250.5.13,VA,Virginia,success,America/New_York,20149,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.91.30,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS20057 AT&T Mobility LLC,Brooklyn,United States,US,AT&T Mobility LLC,40.6186,-73.9272,AT&T Mobility LLC,2600:387:5:805::26,NY,New York,success,America/New_York,11234,,AS20057
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.37.9,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.20,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+AS1299,Chicago,United States,US,Telia Company AB,41.8781,-87.6298,Telia Company AB,62.115.113.19,IL,Illinois,success,America/Chicago,60666,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.39.165,GA,Georgia,success,America/New_York,30006,,AS7922
+AS1299,Los Angeles,United States,US,Telia Company AB,34.0522,-118.244,Telia Company AB,62.115.123.137,CA,California,success,America/Los_Angeles,90009,,AS1299
+AS1299,Chicago,United States,US,Telia Company AB,41.8781,-87.6298,Telia Company AB,213.248.87.254,IL,Illinois,success,America/Chicago,60666,,AS1299
+AS7713 PT Telekomunikasi Indonesia,Redwood Shores,United States,US,Telekomunikasi Indonesia,37.5272,-122.26100000000001,"Equinix, Inc",206.223.118.135,CA,California,success,America/Los_Angeles,94065,,AS7713
+AS7843 Charter Communications Inc,Chicago,United States,US,Spectrum,41.8781,-87.6298,Time Warner Cable Internet LLC,66.109.6.15,IL,Illinois,success,America/Chicago,60666,,AS7843
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.38,ON,Ontario,success,America/Toronto,M6G,,nan
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3080:1f54::2,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.98,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.225,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS3491 PCCW Global, Inc.",Palo Alto,United States,US,"PCCW Global, Inc.",37.4419,-122.14299999999999,"PCCW Global, Inc.",63.217.21.114,CA,California,success,America/Los_Angeles,94302,,AS3491
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.116.46,VA,Virginia,success,America/New_York,20149,,AS1299
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:16::f1,IL,Illinois,success,America/Chicago,60666,,AS2914
+AS11351 Charter Communications Inc,New York,United States,US,Charter Communications Inc,40.7128,-74.0059,Spectrum,24.58.50.51,NY,New York,success,America/New_York,10123,,AS11351
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:c::35,NY,New York,success,America/New_York,10013,,nan
+AS4637 Telstra Global,Wanchai,Hong Kong,HK,Telstra International Limited,22.2798,114.171,Telstra International Limited,202.84.224.198,HWC,Wan Chai,success,Asia/Hong_Kong,96521,,AS4637
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::42d,NY,New York,success,America/New_York,10013,,nan
+"AS14061 DigitalOcean, LLC",London,United Kingdom,GB,"DigitalOcean, LLC",51.5353,-0.6658,Digital Ocean,46.101.0.254,ENG,England,success,Europe/London,SL1,,AS14061
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00::8678:acff:fe1c,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.35.58,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:20a::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.14,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::152,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.210,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.9,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS3491 PCCW Global, Inc.",San José,Costa Rica,CR,"PCCW Global, Inc.",9.92807,-84.0907,"PCCW Global, Inc.",63.218.7.62,SJ,Provincia de San Jose,success,America/Costa_Rica,11002,,AS3491
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.65.2,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.26.138,NY,New York,success,America/New_York,10123,,AS6461
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.193,NJ,New Jersey,success,America/New_York,08054,,AS7922
+AS22773 Cox Communications Inc.,San Pedro,United States,US,Cox Communications Inc.,33.7421,-118.3102,Cox Communications Inc.,98.184.206.232,CA,California,success,America/Los_Angeles,90732,,AS22773
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:9::211,NY,New York,success,America/New_York,10013,,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:311::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:0:1::99,NY,New York,success,America/New_York,10013,,nan
+,,,,,,,,2001:668:0:3:ffff:0:2e21:,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.202,CO,Colorado,success,America/Denver,80208,,AS7922
+"AS2914 NTT America, Inc.",Newark,United States,US,"NTT America, Inc.",40.7357,-74.1724,"NTT America, Inc.",129.250.6.54,NJ,New Jersey,success,America/New_York,07175,,AS2914
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::c2,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::de,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS11351 Charter Communications Inc,New York,United States,US,Charter Communications Inc,40.7128,-74.0059,Spectrum,24.58.50.71,NY,New York,success,America/New_York,10123,,AS11351
+"AS7922 Comcast Cable Communications, LLC",Linglestown,United States,US,"Comcast Cable Communications, LLC",40.3337,-76.7996,"Comcast Cable Communications, LLC",96.108.118.22,PA,Pennsylvania,success,America/New_York,17112,,AS7922
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.3.238,CA,California,success,America/Los_Angeles,90009,,AS2914
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.208,ON,Ontario,success,America/Toronto,M6G,,nan
+,Old Toronto,Canada,CA,Choopa,43.6509,-79.3618,GameServers.com,2001:19f0:fc00::a4a:82,ON,Ontario,success,America/Toronto,M5A 4L2,,nan
+AS20115 Charter Communications,St Louis,United States,US,Charter Communications,38.6249,-90.4496,Spectrum,71.14.188.68,MO,Missouri,success,America/Chicago,63131,,AS20115
+,,,,,,,,10.66.4.46,,,fail,,,private range,nan
+AS22773 Cox Communications Inc.,Macon,United States,US,Cox Communications Inc.,32.7486,-83.7477,Cox Communications Inc.,68.1.0.45,GA,Georgia,success,America/New_York,31216,,AS22773
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.162,CO,Colorado,success,America/Denver,80208,,AS7922
+"AS2914 NTT America, Inc.",Osaka,Japan,JP,"NTT America, Inc.",34.6937,135.502,"NTT America, Inc.",129.250.2.67,27,Ōsaka,success,Asia/Tokyo,540-0002,,AS2914
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::1f5,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3667,4.89454,Telia Company AB,62.115.136.194,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA Communications,19.076,72.8777,,180.87.38.2,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+AS1299,Dallas,United States,US,Telia Company AB,32.7767,-96.79700000000001,Telia Company AB,62.115.113.85,TX,Texas,success,America/Chicago,75270,,AS1299
+"AS7922 Comcast Cable Communications, LLC",McKeesport,United States,US,"Comcast Cable Communications, LLC",40.3471,-79.8641,"Comcast Cable Communications, Inc",69.139.168.142,PA,Pennsylvania,success,America/New_York,15131,,AS7922
+AS4826 Vocus Connect International Backbone,Sydney,Australia,AU,Vocus PTY LTD,-33.8591,151.2002,Vocus Communications Ltd,49.255.7.72,NSW,New South Wales,success,Australia/Sydney,2000,,AS4826
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::7d,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.112.242,VA,Virginia,success,America/New_York,20149,,AS1299
+AS1299,New York,United States,US,Telia Company AB,40.7128,-74.006,Telia Company AB,62.115.47.81,NY,New York,success,America/New_York,10123,,AS1299
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:a::231,NY,New York,success,America/New_York,10013,,nan
+,,,,,,,,2604:a880:1:20:ffff:ffff:,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",San Antonio,United States,US,"Comcast Cable Communications, LLC",29.4809,-98.6014,"Comcast Cable Communications, LLC",173.167.59.41,TX,Texas,success,America/Chicago,78238,,AS7922
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.6139,77.209,Bharti Airtel,182.79.255.174,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, LLC",96.108.181.114,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Linglestown,United States,US,"Comcast Cable Communications, LLC",40.3337,-76.7996,"Comcast Cable Communications, LLC",96.108.118.26,PA,Pennsylvania,success,America/New_York,17112,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.153,VA,Virginia,success,America/New_York,20149,,AS7922
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.22,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.37.1,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS2914 NTT America, Inc.",Miami,United States,US,"NTT America, Inc.",25.7617,-80.1918,NTT America,128.241.2.110,FL,Florida,success,America/New_York,33102,,AS2914
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::172,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Old Toronto,Canada,CA,TATA COMMUNICATIONS (AMERICA) INC,43.6446,-79.3842,Tata Communications,64.86.33.90,ON,Ontario,success,America/Toronto,M5J-2N1,,AS6453
+,,,,,,,,2600:6c40:7009:400:b088:7,,,fail,,,invalid query,nan
+AS1299,Helsinki,Finland,FI,Telia Company AB,60.1699,24.9384,Telia TIC,80.91.246.75,18,Uusimaa,success,Europe/Helsinki,00100,,AS1299
+"AS20473 Choopa, LLC",Seattle,United States,US,Choopa,47.6062,-122.33200000000001,"Vultr Holdings, LLC",2001:19f0:8000:100::1,WA,Washington,success,America/Los_Angeles,98121,,AS20473
+"AS2914 NTT America, Inc.",City of London,United Kingdom,GB,NTT Europe Online UK,51.5061,-0.071338,"NTT Europe, Ltd.",83.231.181.121,ENG,England,success,Europe/London,E1W 1LA,,AS2914
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.120,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS2914 NTT America, Inc.",New York,United States,US,"NTT America, Inc.",40.7903,-73.9597,"NTT America, Inc.",129.250.4.131,NY,New York,success,America/New_York,10123,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.36.105,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS2914 NTT America, Inc.",Chicago,United States,US,NTT America,41.8781,-87.6298,NTT America - Global IP Network,157.238.179.69,IL,Illinois,success,America/Chicago,60666,,AS2914
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.2.207,CA,California,success,America/Los_Angeles,90009,,AS2914
+"AS14061 DigitalOcean, LLC",Singapore,Singapore,SG,"DigitalOcean, LLC",1.32123,103.695,Digital Ocean,128.199.191.253,,,success,Asia/Singapore,627753,,AS14061
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.10,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:4000:5000::e1,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS1299,Dallas,United States,US,Telia Company AB,32.7767,-96.79700000000001,Telia Company AB,62.115.172.134,TX,Texas,success,America/Chicago,75270,,AS1299
+"AS20473 Choopa, LLC",Miami,United States,US,Choopa,25.7975,-80.23,"Vultr Holdings, LLC",2001:19f0:9000:80::1,FL,Florida,success,America/New_York,33125,,AS20473
+AS7843 Charter Communications Inc,Ashburn,United States,US,Spectrum,39.0438,-77.4874,Time Warner Cable Internet LLC,66.109.6.73,VA,Virginia,success,America/New_York,20149,,AS7843
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.39.166,GA,Georgia,success,America/New_York,30006,,AS7922
+AS11351 Charter Communications Inc,Glens Falls,United States,US,Charter Communications Inc,43.3095,-73.64399999999999,Spectrum,24.58.50.65,NY,New York,success,America/New_York,12801,,AS11351
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.86,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS2914 NTT America, Inc.",Ashburn,United States,US,"NTT America, Inc.",39.0438,-77.4874,"NTT America, Inc.",129.250.3.188,VA,Virginia,success,America/New_York,20149,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.93.174,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:48f::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS3356 Level 3 Parent, LLC",Newark,United States,US,"Level 3 Communications, Inc.",40.7357,-74.1724,"Level 3, LLC",4.69.142.105,NJ,New Jersey,success,America/New_York,07175,,AS3356
+"AS14061 DigitalOcean, LLC",San Francisco,United States,US,"DigitalOcean, LLC",37.7353,-122.3732,"Digital Ocean, Inc.",104.236.128.253,CA,California,success,America/Los_Angeles,94124,,AS14061
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.245.14,ON,Ontario,success,America/Toronto,M6G,,nan
+AS6939 Hurricane Electric LLC,Chicago,United States,US,Hurricane Electric LLC,41.8547,-87.6185,Hurricane Electric,184.104.192.117,IL,Illinois,success,America/Chicago,60616,,AS6939
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.84,ON,Ontario,success,America/Toronto,M6G,,nan
+AS22773 Cox Communications Inc.,Cleveland,United States,US,Cox Communications Inc.,41.3844,-81.7003,Cox Communications Inc.,68.105.30.145,OH,Ohio,success,America/New_York,44134,,AS22773
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:100::5,CO,Colorado,success,America/Denver,80111,,nan
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:14b::1,CO,Colorado,success,America/Denver,80111,,nan
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:32c::1,CO,Colorado,success,America/Denver,80111,,nan
+"AS7922 Comcast Cable Communications, LLC",McKeesport,United States,US,"Comcast Cable Communications, LLC",40.3471,-79.8641,"Comcast Cable Communications, Inc",69.139.168.186,PA,Pennsylvania,success,America/New_York,15131,,AS7922
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.141.244,VA,Virginia,success,America/New_York,20149,,AS1299
+AS1299,Atlanta,United States,US,Telia Company AB,33.749,-84.38799999999999,Telia Company AB,62.115.113.48,GA,Georgia,success,America/New_York,30302,,AS1299
+,,,,,,,,2600:6c5e:7001:700:8db5:3,,,fail,,,invalid query,nan
+AS1299,Solna,Sweden,SE,Telia Company AB,59.3625,17.9989,Telia Company AB,2001:2000:3018:4f::1,AB,Stockholm,success,Europe/Stockholm,105 04,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:268::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Marietta,United States,US,"Comcast Cable Communications, LLC",33.9526,-84.5499,"Comcast IP Services, L.L.C.",96.110.40.54,GA,Georgia,success,America/New_York,30006,,AS7922
+AS3257 GTT Communications Inc.,Boca Raton,United States,US,Tinet SpA,26.3955,-80.0771,Bravatas,213.200.115.178,FL,Florida,success,America/New_York,33487,,AS3257
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.2.176,CA,California,success,America/Los_Angeles,90009,,AS2914
+"AS7018 AT&T Services, Inc.",Indianapolis,United States,US,"AT&T Services, Inc.",39.7709,-86.1584,"AT&T Services, Inc.",192.205.32.245,IN,Indiana,success,America/Indiana/Indianapolis,46204,,AS7018
+AS22773 Cox Communications Inc.,Macon,United States,US,Cox Communications Inc.,32.7486,-83.7477,Cox Communications Inc.,68.1.0.189,GA,Georgia,success,America/New_York,31216,,AS22773
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,London,United Kingdom,GB,TATA Communications,51.5074,-0.12775799999999998,Tata Communications Ltd.,80.231.130.20,ENG,England,success,Europe/London,W1B,,AS6453
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.42.170,IL,Illinois,success,America/Chicago,60616,,AS7922
+,Bethpage,United States,US,CSC Holdings Inc.,40.7419,-73.4817,CSC Holdings Inc.,64.15.3.137,NY,New York,success,America/New_York,11714,,nan
+"AS14061 DigitalOcean, LLC",Amsterdam,Netherlands,NL,"DigitalOcean, LLC",52.3702,4.895169999999999,Digitalocean,5.101.111.251,NH,North Holland,success,Europe/Amsterdam,1012,,AS14061
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.6.47,CA,California,success,America/Los_Angeles,90009,,AS2914
+"AS2914 NTT America, Inc.",San Jose,United States,US,"NTT America, Inc.",37.3382,-121.88600000000001,"NTT America, Inc.",129.250.5.33,CA,California,success,America/Los_Angeles,95141,,AS2914
+AS6939 Hurricane Electric LLC,New York City,United States,US,Hurricane Electric LLC,40.7177,-74.0083,Hurricane Electric,184.105.213.218,NY,New York,success,America/New_York,10013,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.182,VA,Virginia,success,America/New_York,20149,,AS7922
+AS1299,Chicago,United States,US,Telia Company AB,41.8781,-87.6298,Telia Company AB,62.115.118.100,IL,Illinois,success,America/Chicago,60666,,AS1299
+"AS3491 PCCW Global, Inc.",San José,Costa Rica,CR,"PCCW Global, Inc.",9.92807,-84.0907,"PCCW Global, Inc.",63.218.178.58,SJ,Provincia de San Jose,success,America/Costa_Rica,11002,,AS3491
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.233,ON,Ontario,success,America/Toronto,M6G,,nan
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,London,United Kingdom,GB,TATA Communications,51.5074,-0.12775799999999998,Tata Communications Ltd.,80.231.131.118,ENG,England,success,Europe/London,W1B,,AS6453
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.18,ON,Ontario,success,America/Toronto,M6G,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.90,ON,Ontario,success,America/Toronto,M6G,,nan
+AS7843 Charter Communications Inc,Dallas,United States,US,Spectrum,32.7767,-96.79700000000001,Time Warner Cable Internet LLC,66.109.6.89,TX,Texas,success,America/Chicago,75270,,AS7843
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::2d2,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+"AS7018 AT&T Services, Inc.",Washington,United States,US,"AT&T Services, Inc.",38.9072,-77.0369,AT&T Mobility LLC,2600:300:2050:10b::1,DC,District of Columbia,success,America/New_York,20068,,AS7018
+AS4755 TATA Communications formerly VSNL is Leading ISP,Mumbai,India,IN,Tata Communications Limited,19.0748,72.8856,Tata Communications Limited,2403:0:500::2f5,MH,Maharashtra,success,Asia/Kolkata,400070,,AS4755
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.3.70,VA,Virginia,success,America/New_York,20149,,nan
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.202,TX,Texas,success,America/Chicago,75270,,AS63949
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.44,ON,Ontario,success,America/Toronto,M6G,,nan
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,City of London,United Kingdom,GB,TATA COMMUNICATIONS (AMERICA) INC,51.5423,0.0025293000000000004,Tata Communications LTD,2001:5a0:2000:400::45,ENG,England,success,Europe/London,E15 1NB,,AS6453
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,Telia Company AB,62.115.13.103,ENG,England,success,Europe/London,W1B,,AS1299
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.38.145,VA,Virginia,success,America/New_York,20149,,AS7922
+,,,,,,,,fd00:0:2::1,,,fail,,,private range,nan
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Chappaqua,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",41.1696,-73.7692,Verizon Online LLC,108.41.14.91,NY,New York,success,America/New_York,10514,,AS701
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc,2001:578:2300:4::61,GA,Georgia,success,America/New_York,30319,,AS22773
+"AS3491 PCCW Global, Inc.",Tokyo,Japan,JP,"PCCW Global, Inc.",35.6804,139.769,"PCCW Global, Inc.",63.218.251.241,13,Tokyo,success,Asia/Tokyo,104-0031,,AS3491
+"AS3356 Level 3 Parent, LLC",Boca Raton,United States,US,Level 3,26.4122,-80.0875,Adastra,4.15.154.165,FL,Florida,success,America/New_York,33487,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.87.157,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, LLC",68.85.176.14,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS9498 BHARTI Airtel Ltd.,New Delhi,India,IN,Bharti Airtel Limited,28.6139,77.209,Bharti Airtel,182.79.179.57,DL,National Capital Territory of Delhi,success,Asia/Kolkata,110001,,AS9498
+AS22773 Cox Communications Inc.,Atlanta,United States,US,Cox Communications Inc.,33.9149,-84.3446,Cox Communications Inc,2001:578:20:a000::6,GA,Georgia,success,America/New_York,30319,,AS22773
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7767,-96.79700000000001,Linode,2600:3c00:2222:16::1,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS2914 NTT America, Inc.",Singapore,Singapore,SG,"NTT America, Inc.",1.2752,103.79899999999999,NTT Singapore Pte Ltd,116.51.17.165,,,success,Asia/Singapore,,,AS2914
+AS22773 Cox Communications Inc.,Macon,United States,US,Cox Communications Inc.,32.7486,-83.7477,Cox Communications Inc.,68.1.0.49,GA,Georgia,success,America/New_York,31216,,AS22773
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::76,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.21,CO,Colorado,success,America/Denver,80208,,AS7922
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.238.9,NY,New York,success,America/New_York,10577,,nan
+"AS2914 NTT America, Inc.",Paris,France,FR,Ntte Infra,48.8566,2.35222,NTT Europe Ltd.,2001:728:0:2000::259,IDF,Île-de-France,success,Europe/Paris,75000,,AS2914
+AS6939 Hurricane Electric LLC,Chicago,United States,US,Hurricane Electric LLC,41.8547,-87.6185,Hurricane Electric,184.105.80.5,IL,Illinois,success,America/Chicago,60616,,AS6939
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3667,4.89454,Telia Company AB,62.115.137.64,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+"AS3356 Level 3 Parent, LLC",New York,United States,US,"Level 3 Communications, Inc.",40.7056,-73.97800000000001,"Level 3, LLC",4.69.218.70,NY,New York,success,America/New_York,10123,,AS3356
+"AS7922 Comcast Cable Communications, LLC",Denver,United States,US,"Comcast Cable Communications, LLC",39.7392,-104.99,"Comcast Cable Communications, Inc.",68.86.85.185,CO,Colorado,success,America/Denver,80208,,AS7922
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Mumbai,India,IN,TATA COMMUNICATIONS (AMERICA) INC,19.021,72.8304,TATA Communications Ltd,2001:5a0:2300:200::2,MH,Maharashtra,success,Asia/Kolkata,400001,,AS6453
+"AS7922 Comcast Cable Communications, LLC",Malvern,United States,US,"Comcast Cable Communications, LLC",40.0362,-75.5138,"Comcast Cable Communications, Inc.",68.86.217.238,PA,Pennsylvania,success,America/New_York,19355,,AS7922
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.251.130,ON,Ontario,success,America/Toronto,M6G,,nan
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3702,4.895169999999999,TeliaSonera AB,213.155.130.176,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+"AS3356 Level 3 Parent, LLC",Bellevue,United States,US,"Level 3 Communications, Inc.",47.5579,-122.1633,"Level 3, LLC",4.59.233.49,WA,Washington,success,America/Los_Angeles,98006,,AS3356
+AS11427 Charter Communications Inc,Dallas,United States,US,Charter Communications Inc,32.7767,-96.79700000000001,Spectrum,24.175.41.49,TX,Texas,success,America/Chicago,75270,,AS11427
+AS4637 Telstra Global,Wanchai,Hong Kong,HK,Telstra International Limited,22.2798,114.171,Telstra International Limited,202.84.224.189,HWC,Wan Chai,success,Asia/Hong_Kong,96521,,AS4637
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Dallas,United States,US,TATA COMMUNICATIONS (AMERICA) INC,32.7889,-96.8021,TATA COMMUNICATIONS (AMERICA) INC,64.86.188.2,TX,Texas,success,America/Chicago,75201,,AS6453
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::18,NY,New York,success,America/New_York,10013,,nan
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::42,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::3c,NY,New York,success,America/New_York,10013,,nan
+AS6939 Hurricane Electric LLC,New York City,United States,US,Hurricane Electric LLC,40.7414,-74.0033,Hurricane Electric LLC,72.52.92.166,NY,New York,success,America/New_York,10011,,AS6939
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:9::215,NY,New York,success,America/New_York,10013,,nan
+,,,,,,,,10.66.4.40,,,fail,,,private range,nan
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.0,TX,Texas,success,America/Chicago,75270,,AS63949
+"AS63949 Linode, LLC",Dallas,United States,US,"Linode, LLC",32.7787,-96.8217,Linode,45.79.12.6,TX,Texas,success,America/Chicago,75270,,AS63949
+AS6461 Zayo Bandwidth,New York,United States,US,Zayo Bandwidth,40.7128,-74.006,Zayo Bandwidth,64.125.29.215,NY,New York,success,America/New_York,10123,,AS6461
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.0.179,VA,Virginia,success,America/New_York,20149,,nan
+"AS3356 Level 3 Parent, LLC",Hoboken,United States,US,"Level 3 Communications, Inc.",40.7424,-74.0325,Level 3,4.14.218.21,NJ,New Jersey,success,America/New_York,07030,,AS3356
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7308,-73.9975,Tata Communications,66.110.96.134,NY,New York,success,America/New_York,10011,,AS6453
+"AS2914 NTT America, Inc.",Seattle,United States,US,"NTT America, Inc.",47.6062,-122.33200000000001,NTT Communications Corporation,2001:218:0:2000::22,WA,Washington,success,America/Los_Angeles,98111,,AS2914
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.143.121,VA,Virginia,success,America/New_York,20149,,AS1299
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.249.96,ON,Ontario,success,America/Toronto,M6G,,AS14061
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast Cable Communications, Inc.",68.86.83.89,VA,Virginia,success,America/New_York,20149,,AS7922
+AS4755 TATA Communications formerly VSNL is Leading ISP,Bengaluru,India,IN,TATACOMM,12.9721,77.5933,,219.65.110.185,KA,Karnataka,success,Asia/Kolkata,560002,,AS4755
+AS7843 Charter Communications Inc,Atlanta,United States,US,Spectrum,33.749,-84.38799999999999,Time Warner Cable Internet LLC,66.109.5.229,GA,Georgia,success,America/New_York,30302,,AS7843
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.3.160,VA,Virginia,success,America/New_York,20149,,nan
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.206,ON,Ontario,success,America/Toronto,M6G,,nan
+AS4637 Telstra Global,San Jose,United States,US,Telstra International Limited,37.3382,-121.88600000000001,Reach Multi Media Satellite Services,202.84.247.17,CA,California,success,America/Los_Angeles,95141,,AS4637
+,Redwood Shores,United States,US,Equinix,37.5272,-122.26100000000001,"Equinix, Inc",2001:504:0:1::6939:1,CA,California,success,America/Los_Angeles,94065,,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:450::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.248.222,ON,Ontario,success,America/Toronto,M6G,,nan
+AS6939 Hurricane Electric LLC,Ashburn,United States,US,Hurricane Electric LLC,39.0163,-77.459,Hurricane Electric,184.105.223.165,VA,Virginia,success,America/New_York,20147,,AS6939
+AS7843 Charter Communications Inc,Dallas,United States,US,Spectrum,32.7767,-96.79700000000001,Time Warner Cable Internet LLC,66.109.5.120,TX,Texas,success,America/Chicago,75270,,AS7843
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.86.249,IL,Illinois,success,America/Chicago,60616,,AS7922
+,Seattle,United States,US,Seattle Internet Exchange,47.6141,-122.335,Seattle Internet Exchange,2001:504:16::1b1b,WA,Washington,success,America/Los_Angeles,98101,,nan
+,,,,,,,,10.66.4.48,,,fail,,,private range,nan
+,Bethpage,United States,US,CSC Holdings Inc,40.7419,-73.4817,CSC Holdings Inc.,65.19.114.34,NY,New York,success,America/New_York,11714,,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.2,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS63949 Linode, LLC",Tokyo,Japan,JP,"Linode, LLC",35.6882,139.7532,"Linode, LLC",139.162.64.18,13,Tokyo,success,Asia/Tokyo,102-0082,,AS63949
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Ashburn,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",39.0107,-77.469,Verizon Communications,204.255.168.13,VA,Virginia,success,America/New_York,20147,,AS701
+"AS2914 NTT America, Inc.",Chicago,United States,US,"NTT America, Inc.",41.8781,-87.6298,"NTT America, Inc.",2001:418:0:5000::87b,IL,Illinois,success,America/Chicago,60666,,AS2914
+,,,,,,,,2600:8805:d480:f300:4c18:,,,fail,,,invalid query,nan
+,,,,,,,,fd00:0:2::9d,,,fail,,,private range,nan
+"AS7018 AT&T Services, Inc.",Washington,United States,US,"AT&T Services, Inc.",38.9072,-77.0369,AT&T Mobility LLC,2600:300:2050:1622::2,DC,District of Columbia,success,America/New_York,20068,,AS7018
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.226.193,NY,New York,success,America/New_York,10577,,nan
+"AS7922 Comcast Cable Communications, LLC",Port Saint Lucie,United States,US,"Comcast Cable Communications, LLC",27.2621,-80.3835,"Comcast Business Communications, LLC",66.208.216.69,FL,Florida,success,America/New_York,34953,,AS7922
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:6:1::410,NY,New York,success,America/New_York,10013,,nan
+AS4826 Vocus Connect International Backbone,San Jose,United States,US,Vocus PTY LTD,37.3388,-121.8914,Vocus PTY LTD,49.255.255.25,CA,California,success,America/Los_Angeles,95141,,AS4826
+AS3257 GTT Communications Inc.,Paris,France,FR,GTT Communications,48.8566,2.35222,Tinet SpA,46.33.81.25,IDF,Île-de-France,success,Europe/Paris,75000,,AS3257
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.113,VA,Virginia,success,America/New_York,20149,,AS7922
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Chicago,United States,US,TATA COMMUNICATIONS (AMERICA) INC,41.8781,-87.6298,TATA communications,63.243.172.33,IL,Illinois,success,America/Chicago,60666,,AS6453
+"AS2914 NTT America, Inc.",Los Angeles,United States,US,"NTT America, Inc.",34.0522,-118.244,"NTT America, Inc.",129.250.3.234,CA,California,success,America/Los_Angeles,90009,,AS2914
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:40a::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS1200 Amsterdam Internet Exchange B.V.,Amsterdam,Netherlands,NL,AMS-IX Peering LANs,52.36,4.89814,Amsterdam Internet Exchange B.V,2001:7f8:1::a500:6939:1,NH,North Holland,success,Europe/Amsterdam,1017,,AS1200
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:9:0:1::,NY,New York,success,America/New_York,10013,,nan
+AS6461 Zayo Bandwidth,Chicago,United States,US,Zayo Bandwidth,41.8781,-87.6298,Zayo Bandwidth,64.125.30.90,IL,Illinois,success,America/Chicago,60666,,AS6461
+"AS20473 Choopa, LLC",Alexandria,Australia,AU,"Choopa, LLC",-33.9256,151.1906,AUS Infra,103.43.73.193,NSW,New South Wales,success,Australia/Sydney,2015,,AS20473
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:381::2,CA,California,success,America/Los_Angeles,95119,,AS6939
+,,,,,,,,10.0.10.1,,,fail,,,private range,nan
+"AS14061 DigitalOcean, LLC",Toronto,Canada,CA,"DigitalOcean, LLC",43.6644,-79.4195,"DigitalOcean, LLC",138.197.250.96,ON,Ontario,success,America/Toronto,M6G,,AS14061
+,,,,,,,,10.78.4.4,,,fail,,,private range,nan
+AS6939 Hurricane Electric LLC,Ashburn,United States,US,American Registry Internet Numbers,39.0163,-77.459,American Registry Internet Numbers,216.66.24.70,VA,Virginia,success,America/New_York,20147,,AS6939
+AS9498 BHARTI Airtel Ltd.,Bengaluru,India,IN,Bharti Airtel Limited,12.9721,77.5933,Bharti Airtel,202.56.198.57,KA,Karnataka,success,Asia/Kolkata,560002,,AS9498
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Boston,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",42.3601,-71.0589,Verizon Communications,100.41.193.73,MA,Massachusetts,success,America/New_York,02112,,AS701
+AS4637 Telstra Global,Singapore,Singapore,SG,Telstra International Limited,1.35208,103.82,Telstra Digitalocean,210.176.138.132,,,success,Asia/Singapore,,,AS4637
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.36.29,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.210,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Delmar,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",42.62,-73.8343,Verizon Communications,71.244.115.94,NY,New York,success,America/New_York,12054,,AS701
+"AS7922 Comcast Cable Communications, LLC",Mount Laurel,United States,US,"Comcast Cable Communications, LLC",39.9648,-74.9045,"Comcast Cable Communications, Inc.",68.86.84.217,NJ,New Jersey,success,America/New_York,08054,,AS7922
+,Purchase,United States,US,ANS CO+RE Systems,41.0267,-73.7155,"ANS CO+RE Systems, Inc.",140.222.231.5,NY,New York,success,America/New_York,10577,,nan
+AS1299,London,United Kingdom,GB,Telia Company AB,51.5074,-0.12775799999999998,TeliaSonera AB,213.155.136.21,ENG,England,success,Europe/London,W1B,,AS1299
+,,,,,,,,2001:1890:ff:ffff:12:122:,,,fail,,,invalid query,nan
+"AS2914 NTT America, Inc.",Frankfurt am Main,Germany,DE,"NTT America, Inc.",50.1109,8.68213,"NTT America, Inc.",2001:418:0:2000::12,HE,Hesse,success,Europe/Berlin,60313,,AS2914
+AS3257 GTT Communications Inc.,Boca Raton,United States,US,Tinet SpA,26.3955,-80.0771,Bravatas,213.200.119.198,FL,Florida,success,America/New_York,33487,,AS3257
+AS7843 Charter Communications Inc,Sunnyvale,United States,US,Spectrum,37.3688,-122.036,Time Warner Cable Internet LLC,66.109.6.9,CA,California,success,America/Los_Angeles,94088,,AS7843
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,Chicago,United States,US,TATA COMMUNICATIONS (AMERICA) INC,41.8536,-87.6183,Tata Communications Ltd,206.82.141.134,IL,Illinois,success,America/Chicago,60616,,AS6453
+"AS20473 Choopa, LLC",Aubervilliers,France,FR,Choopa,48.9067,2.36939,"Vultr Holdings, LLC",45.63.112.65,IDF,Île-de-France,success,Europe/Paris,93300,,AS20473
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:5929::5,CO,Colorado,success,America/Denver,80111,,nan
+AS1299,Amsterdam,Netherlands,NL,Telia Company AB,52.3702,4.895169999999999,TeliaSonera AB,213.155.130.178,NH,North Holland,success,Europe/Amsterdam,1012,,AS1299
+AS174 Cogent Communications,Dallas,United States,US,Cogent Communications,32.7767,-96.79700000000001,Cogent communications - IPENG,154.54.28.73,TX,Texas,success,America/Chicago,75270,,AS174
+,,,,,,,,2001:1890:1fff:100:192:20,,,fail,,,invalid query,nan
+"AS7922 Comcast Cable Communications, LLC",Ashburn,United States,US,"Comcast Cable Communications, LLC",39.0438,-77.4874,"Comcast IP Services, L.L.C.",96.110.32.117,VA,Virginia,success,America/New_York,20149,,AS7922
+"AS7922 Comcast Cable Communications, LLC",Newark,United States,US,"Comcast Cable Communications, LLC",40.7357,-74.1724,"Comcast IP Services, L.L.C.",96.110.34.162,NJ,New Jersey,success,America/New_York,07175,,AS7922
+"AS3356 Level 3 Parent, LLC",Walnut Creek,United States,US,"Level 3 Communications, Inc.",37.9208,-122.0182,Level 3,4.14.33.69,CA,California,success,America/Los_Angeles,94598,,AS3356
+AS1299,Paris,France,FR,Telia Company AB,48.8566,2.35222,Telia Company AB,62.115.113.180,IDF,Île-de-France,success,Europe/Paris,75000,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:18d::1,CA,California,success,America/Los_Angeles,95119,,AS6939
+AS1299,Atlanta,United States,US,Telia Company AB,33.749,-84.38799999999999,Telia Company AB,62.115.125.191,GA,Georgia,success,America/New_York,30302,,AS1299
+,Ashburn,United States,US,Spectrum,39.0481,-77.4728,Charter Communications,96.34.3.246,VA,Virginia,success,America/New_York,20149,,nan
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast IP Services, L.L.C.",96.110.35.62,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS6453 TATA COMMUNICATIONS (AMERICA) INC,New York,United States,US,TATA COMMUNICATIONS (AMERICA) INC,40.7414,-74.0032,Tata Communications Ltd,63.243.128.82,NY,New York,success,America/New_York,10011,,AS6453
+,Greenwood Village,United States,US,Spectrum,39.6004,-104.891,Charter Communications,2001:506:100:4233::2,CO,Colorado,success,America/Denver,80111,,nan
+"AS2914 NTT America, Inc.",New York,United States,US,"NTT America, Inc.",40.7903,-73.9597,"NTT America, Inc.",129.250.4.41,NY,New York,success,America/New_York,10123,,AS2914
+"AS7922 Comcast Cable Communications, LLC",Ivyland,United States,US,"Comcast Cable Communications, LLC",40.2079,-75.0727,"Comcast Cable Communications, Inc.",68.86.213.154,PA,Pennsylvania,success,America/New_York,18974,,AS7922
+,Old Toronto,Canada,CA,Choopa,43.6509,-79.3618,GameServers.com,2001:19f0:fc00::a4c:506,ON,Ontario,success,America/Toronto,M5A 4L2,,nan
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, Inc.",68.86.86.33,IL,Illinois,success,America/Chicago,60616,,AS7922
+AS7843 Charter Communications Inc,Dallas,United States,US,Spectrum,32.7767,-96.79700000000001,Time Warner Cable Internet LLC,66.109.1.217,TX,Texas,success,America/Chicago,75270,,AS7843
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:7:1::31,NY,New York,success,America/New_York,10013,,nan
+AS3257 GTT Communications Inc.,Boca Raton,United States,US,Tinet SpA,26.3955,-80.0771,Bravatas,213.200.115.30,FL,Florida,success,America/New_York,33487,,AS3257
+,New York,United States,US,DigitalOcean,40.7234,-74.0054,"DigitalOcean, LLC",2604:a880:ffff:4:1::14,NY,New York,success,America/New_York,10013,,nan
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.3341,-121.8917,Hurricane Electric LLC,64.71.184.45,CA,California,success,America/Los_Angeles,95113,,AS6939
+"AS7922 Comcast Cable Communications, LLC",Chicago,United States,US,"Comcast Cable Communications, LLC",41.8528,-87.6228,"Comcast Cable Communications, LLC",68.85.176.110,IL,Illinois,success,America/Chicago,60616,,AS7922
+"AS701 MCI Communications Services, Inc. d/b/a Verizon Business",Manhasset,United States,US,"MCI Communications Services, Inc. d/b/a Verizon Business",40.7915,-73.6924,Verizon Communications,71.105.160.130,NY,New York,success,America/New_York,11030,,AS701
+AS11427 Charter Communications Inc,Austin,United States,US,Charter Communications Inc,30.2672,-97.7431,Spectrum,24.175.42.107,TX,Texas,success,America/Chicago,78713,,AS11427
+,Toronto,Canada,CA,DigitalOcean,43.6644,-79.4195,"DigitalOcean, LLC",138.197.244.227,ON,Ontario,success,America/Toronto,M6G,,nan
+"AS3491 PCCW Global, Inc.",Quarry Bay,Hong Kong,HK,"PCCW Global, Inc.",22.2872,114.212,PCCW-HKT Network Services Ltd,2400:8800:1f11:27::1,HEA,Eastern,success,Asia/Hong_Kong,96521,,AS3491
+AS1299,Ashburn,United States,US,Telia Company AB,39.0438,-77.4874,Telia Company AB,62.115.125.129,VA,Virginia,success,America/New_York,20149,,AS1299
+AS6939 Hurricane Electric LLC,San Jose,United States,US,Hurricane Electric LLC,37.2414,-121.78299999999999,Hurricane Electric,2001:470:0:35a::2,CA,California,success,America/Los_Angeles,95119,,AS6939
