@@ -1,0 +1,76 @@
+---
+title: "IP Investigation"
+output: html_notebook
+---
+
+This is the dataset collected by Lucas Culley, Nicole Salamone, and Liam Peng for the final project of the COSC465 class (Networks) at Colgate University. The goal is to investigate the IP addresses of various students, families, and friends in order to draw conclusions based on their location, ISP, and traceroutes. This R notebook will be used to clean up the dataset and to analyze the dataset further.
+
+```{r}
+library(dplyr)
+library(tidyr)
+AS <-read.csv("routes_df.csv")
+IPs <-read.csv("IP_df.csv")
+summary(IP)
+```
+
+Summaries of the datasets
+```{r}
+# IPAS <- cbind(ASes,IPs)
+summary(AS)
+```
+
+Grouping by IP to do some data viasulization
+```{r}
+by_IP <- AS %>% group_by(IP)
+summary(by_IP)
+IP_count = tally(by_IP)
+```
+The following will give us a graph of frequency that IPes show up in our data:
+```{r}
+library(ggplot2)
+relevant_IP <- IP_count %>% filter(n>10 & n<900)
+ggplot(relevant_IP, aes(x = IP, y = n)) + geom_col(aes(fill=IP)) + theme(legend.position="none",axis.text.x = element_text(angle=90, hjust=1,vjust=.5))
+```
+Now lets check out which ASes and ISPs are related to these popular IPs (and graph that!)
+
+JK, investigating transatlantic link instead... Lets check out which orgs control the cables.
+
+```{r}
+library(ggplot2)
+orgs <- read.csv("TA_df.csv")
+summary(orgs)
+```
+Cool, so we see Telia with a pretty dominant controll. Lets make a graph and stuff.
+
+```{r}
+by_org <- orgs %>% group_by(org)
+ggplot(by_org, aes(x=org)) + geom_bar(aes(fill = source)) + theme(axis.text.x = element_text(angle=90, hjust=1,vjust=.5)) + ylab("# of Times Link was Used") + xlab("Organization") + guides(fill=guide_legend(title="Source Location")) + ggtitle("Organization Link Use Distribution")
+```
+
+```{r}
+by_source <- orgs %>% group_by(source)
+ggplot(by_source, aes(x=source)) + geom_bar(aes(fill = org)) + theme(axis.text.x = element_text(angle=90, hjust=1,vjust=.5)) + ylab("# of Times Link was Used") + xlab("Source Location") + guides(fill=guide_legend(title="Organization")) + ggtitle("Organization Link Use Distribution")
+```
+
+```{r}
+paris <- orgs %>% filter(source == "Paris")
+ggplot(paris, aes(x=org,y=delay)) + geom_boxplot(aes(fill = org)) + ylab("Delay (ms)") + xlab("Organization") + ggtitle("Delay from Paris Source") + theme(legend.position="none",axis.text.x = element_text(angle=90, hjust=1,vjust=.5))
+```
+
+
+
+```{r}
+frankf <- orgs %>% filter(source == "Frankfurt")
+ggplot(frankf, aes(x=org,y=delay)) + geom_boxplot(aes(fill = org)) + ylab("Delay (ms)") + xlab("Organization") + ggtitle("Delay from Frankfurt Source") + theme(legend.position="none",axis.text.x = element_text(angle=90, hjust=1,vjust=.5))
+```
+
+
+```{r}
+ams <- orgs %>% filter(source == "Amsterdam")
+ggplot(ams, aes(x=org,y=delay)) + geom_boxplot(aes(fill = org)) + ylab("Delay (ms)") + xlab("Organization") + ggtitle("Delay from Amsterdam Source") + theme(legend.position="none",axis.text.x = element_text(angle=90, hjust=1,vjust=.5))
+```
+
+```{r}
+ggplot(by_source, aes(x=source,y=delay)) + geom_boxplot(aes(fill = "g")) + ylab("Delay (ms)") + xlab("Source Location") + ggtitle("Delay from Various Sources") + theme(legend.position="none",axis.text.x = element_text(angle=90, hjust=1,vjust=.5))
+```
+
